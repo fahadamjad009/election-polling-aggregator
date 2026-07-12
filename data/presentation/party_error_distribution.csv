@@ -1,0 +1,69 @@
+country,country_label,election_year,election_label,party,party_role,evaluation_split,dataset_split,actual_pct,predicted_pct,signed_error,absolute_error,n_poll_observations,poll_std,bubble_size,campaign_span_days,recent_30d_observations
+australia,Australia,2010,Australia 2010,ALP (2PP),Election winner,Development,development,50.120000,51.240000,1.120000,1.120000,65,2.763745,3.013745,1001,5
+australia,Australia,2010,Australia 2010,L/NP (2PP),Other modelled party,Development,development,49.880000,48.760000,-1.120000,1.120000,65,2.763745,3.013745,1001,5
+australia,Australia,2013,Australia 2013,ALP (2PP),Other modelled party,Development,development,46.510000,47.000000,0.490000,0.490000,11,0.948683,1.198683,5,11
+australia,Australia,2013,Australia 2013,L/NP (2PP),Election winner,Development,development,53.490000,53.000000,-0.490000,0.490000,11,0.948683,1.198683,5,11
+australia,Australia,2016,Australia 2016,ALP (2PP),Other modelled party,Development,development,49.640000,49.400000,-0.240000,0.240000,225,2.686087,2.936087,1030,19
+australia,Australia,2016,Australia 2016,L/NP (2PP),Election winner,Development,development,50.360000,50.600000,0.240000,0.240000,225,2.675842,2.925842,1030,19
+australia,Australia,2019,Australia 2019,ALP (2PP),Other modelled party,Holdout,holdout,48.470000,51.400000,2.930000,2.930000,196,1.420135,1.670135,1053,16
+australia,Australia,2019,Australia 2019,L/NP (2PP),Election winner,Holdout,holdout,51.530000,48.600000,-2.930000,2.930000,196,1.420135,1.670135,1053,16
+australia,Australia,2022,Australia 2022,ALP (2PP),Election winner,Holdout,holdout,52.130000,51.460000,-0.670000,0.670000,126,3.610976,3.860976,1099,17
+australia,Australia,2022,Australia 2022,L/NP (2PP),Other modelled party,Holdout,holdout,47.870000,47.340000,-0.530000,0.530000,126,2.602277,2.852277,1099,17
+canada,Canada,2004,Canada 2004,BQ,Other modelled party,Development,development,12.385889,12.240000,-0.145889,0.145889,40,1.036810,1.286810,30,36
+canada,Canada,2004,Canada 2004,CPC,Other modelled party,Development,development,29.632041,31.360000,1.727959,1.727959,40,2.585919,2.835919,30,36
+canada,Canada,2004,Canada 2004,GPC,Other modelled party,Development,development,4.292369,4.380000,0.087631,0.087631,38,1.203173,1.453173,30,35
+canada,Canada,2004,Canada 2004,LPC,Election winner,Development,development,36.729299,33.520000,-3.209299,3.209299,40,2.692355,2.942355,30,36
+canada,Canada,2004,Canada 2004,NDP,Other modelled party,Development,development,15.683374,18.400000,2.716626,2.716626,40,1.881489,2.131489,30,36
+canada,Canada,2006,Canada 2006,BQ,Other modelled party,Development,development,10.482448,11.080000,0.597552,0.597552,197,1.332891,1.582891,574,68
+canada,Canada,2006,Canada 2006,CPC,Election winner,Development,development,36.269240,36.940000,0.670760,0.670760,202,4.150997,4.400997,574,68
+canada,Canada,2006,Canada 2006,GPC,Other modelled party,Development,development,4.481750,5.220000,0.738250,0.738250,161,1.220222,1.470222,574,64
+canada,Canada,2006,Canada 2006,LPC,Other modelled party,Development,development,30.231268,28.480000,-1.751268,1.751268,202,4.003370,4.253370,574,68
+canada,Canada,2006,Canada 2006,NDP,Other modelled party,Development,development,17.477014,18.120000,0.642986,0.642986,202,1.928365,2.178365,574,68
+canada,Canada,2008,Canada 2008,BQ,Other modelled party,Development,development,9.975146,9.560000,-0.415146,0.415146,292,1.261432,1.511432,995,101
+canada,Canada,2008,Canada 2008,CPC,Election winner,Development,development,37.653306,36.320000,-1.333306,1.333306,300,2.654000,2.904000,995,101
+canada,Canada,2008,Canada 2008,GPC,Other modelled party,Development,development,6.777455,7.740000,0.962545,0.962545,287,2.036881,2.286881,995,101
+canada,Canada,2008,Canada 2008,LPC,Other modelled party,Development,development,26.262164,25.440000,-0.822164,0.822164,299,3.340996,3.590996,995,101
+canada,Canada,2008,Canada 2008,NDP,Other modelled party,Development,development,18.181542,20.320000,2.138458,2.138458,300,2.444570,2.694570,995,101
+canada,Canada,2015,Canada 2015,BQ,Other modelled party,Holdout,holdout,4.667854,5.020000,0.352146,0.352146,115,0.936366,1.186366,78,72
+canada,Canada,2015,Canada 2015,CPC,Other modelled party,Holdout,holdout,31.911112,31.060000,-0.851112,0.851112,115,2.225588,2.475588,78,72
+canada,Canada,2015,Canada 2015,GPC,Other modelled party,Holdout,holdout,3.427417,4.120000,0.692583,0.692583,115,1.299843,1.549843,78,72
+canada,Canada,2015,Canada 2015,LPC,Election winner,Holdout,holdout,39.467639,38.480000,-0.987639,0.987639,115,3.517506,3.767506,78,72
+canada,Canada,2015,Canada 2015,NDP,Other modelled party,Holdout,holdout,19.721879,20.360000,0.638121,0.638121,115,4.570223,4.820223,78,72
+canada,Canada,2019,Canada 2019,BQ,Other modelled party,Holdout,holdout,7.692089,6.940000,-0.752089,0.752089,117,1.292998,1.542998,40,97
+canada,Canada,2019,Canada 2019,CPC,Election winner,Holdout,holdout,34.407888,32.260000,-2.147888,2.147888,118,1.880620,2.130620,40,98
+canada,Canada,2019,Canada 2019,GPC,Other modelled party,Holdout,holdout,6.497171,6.940000,0.442829,0.442829,117,1.597983,1.847983,40,97
+canada,Canada,2019,Canada 2019,LPC,Other modelled party,Holdout,holdout,33.067986,31.960000,-1.107986,1.107986,118,2.075947,2.325947,40,98
+canada,Canada,2019,Canada 2019,NDP,Other modelled party,Holdout,holdout,15.926059,18.480000,2.553941,2.553941,117,2.899325,3.149325,40,97
+uk,United Kingdom,1997,United Kingdom 1997,CON,Other modelled party,Development,development,30.655878,30.740000,0.084122,0.084122,83,2.024888,2.274888,116,58
+uk,United Kingdom,1997,United Kingdom 1997,LAB,Election winner,Development,development,43.207966,45.840000,2.632034,2.632034,83,3.217174,3.467174,116,58
+uk,United Kingdom,1997,United Kingdom 1997,LIB,Other modelled party,Development,development,16.757973,16.760000,0.002027,0.002027,83,2.203663,2.453663,116,58
+uk,United Kingdom,2001,United Kingdom 2001,CON,Other modelled party,Development,development,31.696794,31.340000,-0.356794,0.356794,58,2.071172,2.321172,152,33
+uk,United Kingdom,2001,United Kingdom 2001,LAB,Election winner,Development,development,40.675076,43.940000,3.264924,3.264924,58,3.243210,3.493210,152,33
+uk,United Kingdom,2001,United Kingdom 2001,LIB,Other modelled party,Development,development,18.258623,17.860000,-0.398623,0.398623,58,2.025721,2.275721,152,33
+uk,United Kingdom,2005,United Kingdom 2005,CON,Other modelled party,Development,development,32.361540,32.840000,0.478460,0.478460,96,1.792345,2.042345,119,65
+uk,United Kingdom,2005,United Kingdom 2005,LAB,Election winner,Development,development,35.184556,37.240000,2.055444,2.055444,96,1.975122,2.225122,119,65
+uk,United Kingdom,2005,United Kingdom 2005,LIB,Other modelled party,Development,development,22.047334,22.940000,0.892666,0.892666,96,1.713944,1.963944,119,65
+uk,United Kingdom,2010,United Kingdom 2010,CON,Election winner,Development,development,36.054287,36.380000,0.325713,0.325713,173,2.500244,2.750244,120,88
+uk,United Kingdom,2010,United Kingdom 2010,LAB,Other modelled party,Development,development,28.990271,27.340000,-1.650271,1.650271,173,2.531620,2.781620,120,88
+uk,United Kingdom,2010,United Kingdom 2010,LIB,Other modelled party,Development,development,23.027281,26.720000,3.692719,3.692719,173,4.988653,5.238653,120,88
+uk,United Kingdom,2015,United Kingdom 2015,CON,Election winner,Development,development,36.809512,35.160000,-1.649512,1.649512,232,1.788775,2.038775,125,87
+uk,United Kingdom,2015,United Kingdom 2015,LAB,Other modelled party,Development,development,30.449598,32.840000,2.390402,2.390402,232,1.616906,1.866906,125,87
+uk,United Kingdom,2015,United Kingdom 2015,LIB,Other modelled party,Development,development,7.870068,8.620000,0.749932,0.749932,232,1.224356,1.474356,125,87
+uk,United Kingdom,2017,United Kingdom 2017,CON,Election winner,Holdout,holdout,42.344448,42.600000,0.255552,0.255552,129,2.878000,3.128000,155,62
+uk,United Kingdom,2017,United Kingdom 2017,LAB,Other modelled party,Holdout,holdout,39.988338,39.400000,-0.588338,0.588338,129,4.919996,5.169996,155,62
+uk,United Kingdom,2017,United Kingdom 2017,LIB,Other modelled party,Holdout,holdout,7.365071,7.040000,-0.325071,0.325071,130,1.646376,1.896376,155,63
+uk,United Kingdom,2019,United Kingdom 2019,CON,Election winner,Holdout,holdout,43.625932,43.660000,0.034068,0.034068,256,7.172277,7.422277,342,63
+uk,United Kingdom,2019,United Kingdom 2019,LAB,Other modelled party,Holdout,holdout,32.076641,32.820000,0.743359,0.743359,256,5.020042,5.270042,342,63
+uk,United Kingdom,2019,United Kingdom 2019,LIB,Other modelled party,Holdout,holdout,11.546218,11.880000,0.333782,0.333782,255,4.289829,4.539829,342,63
+us,United States,2000,United States 2000,DEM,Election winner,Development,development,48.203645,43.183037,-5.020609,5.020609,251,2.559984,2.809984,250,31
+us,United States,2000,United States 2000,OTHER,Other modelled party,Development,development,3.902036,3.829192,-0.072844,0.072844,251,0.653865,0.903865,250,31
+us,United States,2000,United States 2000,REP,Other modelled party,Development,development,47.894319,46.796352,-1.097967,1.097967,251,1.560926,1.810926,250,31
+us,United States,2004,United States 2004,DEM,Other modelled party,Development,development,48.254817,46.640339,-1.614478,1.614478,251,1.522596,1.772596,250,31
+us,United States,2004,United States 2004,REP,Election winner,Development,development,50.681966,48.529189,-2.152777,2.152777,251,1.420820,1.670820,250,31
+us,United States,2008,United States 2008,DEM,Election winner,Development,development,52.863716,50.682760,-2.180956,2.180956,251,1.480059,1.730059,250,31
+us,United States,2008,United States 2008,REP,Other modelled party,Development,development,45.633852,43.660347,-1.973505,1.973505,251,1.763954,2.013954,250,31
+us,United States,2012,United States 2012,DEM,Election winner,Holdout,holdout,50.999088,47.871272,-3.127816,3.127816,251,0.860924,1.110924,250,31
+us,United States,2012,United States 2012,REP,Other modelled party,Holdout,holdout,47.199855,47.711437,0.511582,0.511582,251,0.825832,1.075832,250,31
+us,United States,2016,United States 2016,DEM,Election winner,Holdout,holdout,48.078913,45.799278,-2.279635,2.279635,251,2.096758,2.346758,250,31
+us,United States,2016,United States 2016,OTHER,Other modelled party,Holdout,holdout,5.857242,4.986647,-0.870595,0.870595,234,1.356906,1.606906,233,31
+us,United States,2016,United States 2016,REP,Other modelled party,Holdout,holdout,46.063845,41.632644,-4.431201,4.431201,251,1.595304,1.845304,250,31

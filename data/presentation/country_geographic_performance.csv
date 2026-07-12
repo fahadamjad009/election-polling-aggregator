@@ -1,0 +1,5 @@
+country,country_label,iso_alpha,poll_observations,campaign_party_rows,evaluated_party_rows,elections,correct_winners,wrong_winners,winner_accuracy,winner_accuracy_pct,mean_absolute_error,median_absolute_error,maximum_absolute_error,worst_election,worst_election_mae,worst_election_result_status
+australia,Australia,AUS,1246,10,10,5,4,1,0.800000,80.000000,1.076000,0.600000,2.930000,Australia 2019,2.930000,Winner miss
+canada,Canada,CAN,3802,25,25,5,5,0,1.000000,100.000000,1.139447,0.822164,3.209299,Canada 2004,1.577481,Correct winner
+uk,United Kingdom,GBR,3081,21,21,7,7,0,1.000000,100.000000,1.090658,0.588338,3.692719,United Kingdom 2010,1.889568,Correct winner
+us,United States,USA,2995,12,12,5,4,1,0.800000,80.000000,2.111164,2.063141,5.020609,United States 2016,2.527144,Correct winner

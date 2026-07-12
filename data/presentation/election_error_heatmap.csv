@@ -1,0 +1,23 @@
+country,country_label,iso_alpha,election_year,split,election_mae,winner_correct,result_status,actual_winner,predicted_winner,annotation
+australia,Australia,AUS,2010,Development,1.120000,1,Correct winner,ALP (2PP),ALP (2PP),1.12 OK
+australia,Australia,AUS,2013,Development,0.490000,1,Correct winner,L/NP (2PP),L/NP (2PP),0.49 OK
+australia,Australia,AUS,2016,Development,0.240000,1,Correct winner,L/NP (2PP),L/NP (2PP),0.24 OK
+australia,Australia,AUS,2019,Holdout,2.930000,0,Winner miss,L/NP (2PP),ALP (2PP),2.93 MISS
+australia,Australia,AUS,2022,Holdout,0.600000,1,Correct winner,ALP (2PP),ALP (2PP),0.60 OK
+canada,Canada,CAN,2004,Development,1.577481,1,Correct winner,LPC,LPC,1.58 OK
+canada,Canada,CAN,2006,Development,0.880163,1,Correct winner,CPC,CPC,0.88 OK
+canada,Canada,CAN,2008,Development,1.134324,1,Correct winner,CPC,CPC,1.13 OK
+canada,Canada,CAN,2015,Holdout,0.704320,1,Correct winner,LPC,LPC,0.70 OK
+canada,Canada,CAN,2019,Holdout,1.400947,1,Correct winner,CPC,CPC,1.40 OK
+uk,United Kingdom,GBR,1997,Development,0.906061,1,Correct winner,LAB,LAB,0.91 OK
+uk,United Kingdom,GBR,2001,Development,1.340114,1,Correct winner,LAB,LAB,1.34 OK
+uk,United Kingdom,GBR,2005,Development,1.142190,1,Correct winner,LAB,LAB,1.14 OK
+uk,United Kingdom,GBR,2010,Development,1.889568,1,Correct winner,CON,CON,1.89 OK
+uk,United Kingdom,GBR,2015,Development,1.596615,1,Correct winner,CON,CON,1.60 OK
+uk,United Kingdom,GBR,2017,Holdout,0.389654,1,Correct winner,CON,CON,0.39 OK
+uk,United Kingdom,GBR,2019,Holdout,0.370403,1,Correct winner,CON,CON,0.37 OK
+us,United States,USA,2000,Development,2.063806,0,Winner miss,DEM,REP,2.06 MISS
+us,United States,USA,2004,Development,1.883627,1,Correct winner,REP,REP,1.88 OK
+us,United States,USA,2008,Development,2.077230,1,Correct winner,DEM,DEM,2.08 OK
+us,United States,USA,2012,Holdout,1.819699,1,Correct winner,DEM,DEM,1.82 OK
+us,United States,USA,2016,Holdout,2.527144,1,Correct winner,DEM,DEM,2.53 OK
