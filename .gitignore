@@ -39,3 +39,5 @@ dist/
 *.bak
 
 docs/archive/
+
+PROJECT_STATUS.md
