@@ -12,8 +12,8 @@
 
 The project predicts national vote share and the national polling leader. It deliberately does not claim to predict seats, constituencies, electoral-college outcomes, coalition formation, or government formation.
 
-Platform	Streamlit Community Cloud
-Live application	Open dashboard
+Platform - 	Streamlit Community Cloud - 
+Live application - 	Open dashboard - https://election-polling-aggregator.streamlit.app/
 ---
 
 ## Headline results
