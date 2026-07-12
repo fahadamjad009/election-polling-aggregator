@@ -6,6 +6,7 @@
 [![CI](https://github.com/fahadamjad009/election-polling-aggregator/actions/workflows/ci.yml/badge.svg)](https://github.com/fahadamjad009/election-polling-aggregator/actions/workflows/ci.yml)
 [![Holdout](https://img.shields.io/badge/holdout-locked-blueviolet?style=flat-square)](data/model/final_holdout/HOLDOUT_EVALUATED.lock)
 [![License: MIT](https://img.shields.io/badge/License-MIT-C9A961?style=flat-square)](LICENSE)
+[![Live app](https://img.shields.io/badge/Streamlit-Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://election-polling-aggregator.streamlit.app)
 
 > A reproducible historical election-polling pipeline covering 22 national elections across Australia, Canada, the United Kingdom, and the United States, with explicit national-scope governance, leakage-safe model selection, and a locked chronological holdout.
 
@@ -216,6 +217,20 @@ The current suite contains **10 passing data-invariant tests** covering required
 
 ---
 
+
+### 4. Launch the dashboard
+
+Install the pinned application dependencies and start the Streamlit dashboard:
+
+```powershell
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+Verified public deployment:
+
+**[Launch the live dashboard](https://election-polling-aggregator.streamlit.app)**
+
 ## Documentation
 
 | Document | Purpose |
@@ -252,14 +267,37 @@ The current suite contains **10 passing data-invariant tests** covering required
 
 ---
 
-## Planned presentation layer
+## Live application
 
-The validated analytical core will support:
+**[Launch the Election Polling Aggregator dashboard](https://election-polling-aggregator.streamlit.app)**
 
-- an interactive Streamlit application for election, country and error exploration;
-- a React/Vite companion experience for portfolio presentation;
-- screenshots and live deployment links added only after those applications are built and verified.
+The deployed dashboard provides interactive access to the frozen project evidence, including:
 
+- cross-country polling coverage and historical error;
+- election-level error and winner-correctness analysis;
+- development validation and feature-ablation evidence;
+- historical polling trajectories and error distributions;
+- polling-scope governance and source-table audit results;
+- the locked chronological holdout;
+- the retained Australia 2019 wrong-winner case study;
+- methodology, limitations, and responsible-use guidance.
+
+The dashboard reads versioned analytical outputs. It does not retrain models, retune parameters, alter model selection, or modify the locked chronological holdout.
+
+---
+
+## Deployment
+
+| Setting | Value |
+|---|---|
+| Platform | Streamlit Community Cloud |
+| Live application | [Open dashboard](https://election-polling-aggregator.streamlit.app) |
+| Repository | `fahadamjad009/election-polling-aggregator` |
+| Branch | `main` |
+| Entrypoint | `app.py` |
+| Python version | 3.11 |
+| Dependencies | `requirements.txt` |
+| Secrets required | None |
 
 ---
 
