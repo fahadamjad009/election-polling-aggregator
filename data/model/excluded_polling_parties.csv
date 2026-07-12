@@ -1,0 +1,37 @@
+country,election_year,party,model_party,status
+australia,2010,ALP (Primary),,excluded by documented modelling scope
+australia,2010,GRN (Primary),,excluded by documented modelling scope
+australia,2010,LIB (Primary),,excluded by documented modelling scope
+australia,2010,NAT (Primary),,excluded by documented modelling scope
+australia,2010,OTHER (Primary),,excluded by documented modelling scope
+australia,2013,ALP (Primary),,excluded by documented modelling scope
+australia,2013,GRN (Primary),,excluded by documented modelling scope
+australia,2013,L/NP (Primary),,excluded by documented modelling scope
+australia,2013,OTHER (Primary),,excluded by documented modelling scope
+australia,2016,ALP (Primary),,excluded by documented modelling scope
+australia,2016,GRN (Primary),,excluded by documented modelling scope
+australia,2016,L/NP (Primary),,excluded by documented modelling scope
+australia,2016,OTHER (Primary),,excluded by documented modelling scope
+australia,2019,ALP (Primary),,excluded by documented modelling scope
+australia,2019,GRN (Primary),,excluded by documented modelling scope
+australia,2019,L/NP (Primary),,excluded by documented modelling scope
+australia,2019,ONP (Primary),,excluded by documented modelling scope
+australia,2022,ALP (Primary),,excluded by documented modelling scope
+australia,2022,GRN (Primary),,excluded by documented modelling scope
+australia,2022,L/NP (Primary),,excluded by documented modelling scope
+australia,2022,ONP (Primary),,excluded by documented modelling scope
+australia,2022,OTHER (Primary),,excluded by documented modelling scope
+australia,2022,UAP (Primary),,excluded by documented modelling scope
+canada,2019,PPC,PPC,no matching actual-result target
+uk,2010,BNP,BNP,no matching actual-result target
+uk,2010,GRN,GRN,no matching actual-result target
+uk,2010,UKIP,UKIP,no matching actual-result target
+uk,2015,GRN,GRN,no matching actual-result target
+uk,2015,UKIP,UKIP,no matching actual-result target
+uk,2017,GRN,GRN,no matching actual-result target
+uk,2017,SNP,SNP,no matching actual-result target
+uk,2017,UKIP,UKIP,no matching actual-result target
+uk,2019,BRX,BRX,no matching actual-result target
+uk,2019,GRN,GRN,no matching actual-result target
+uk,2019,PC,PC,no matching actual-result target
+uk,2019,SNP,SNP,no matching actual-result target

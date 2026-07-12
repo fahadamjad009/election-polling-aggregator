@@ -1,0 +1,9 @@
+country,election_year,source_table,date_raw,pollster,party,pct,poll_date,election_date
+australia,2022,australia_2022_table1.csv,21–25 May 2022,,ALP (Primary),41.0,2022-05-25,2022-05-21
+australia,2022,australia_2022_table1.csv,21–25 May 2022,,GRN (Primary),11.0,2022-05-25,2022-05-21
+australia,2022,australia_2022_table1.csv,21–25 May 2022,,L/NP (Primary),33.0,2022-05-25,2022-05-21
+australia,2022,australia_2022_table1.csv,21–25 May 2022,,ONP (Primary),4.0,2022-05-25,2022-05-21
+australia,2022,australia_2022_table1.csv,21–25 May 2022,,OTHER (Primary),11.0,2022-05-25,2022-05-21
+australia,2022,australia_2022_table1.csv,23 May–5 Jun 2022,,ALP (Primary),35.4,2022-06-05,2022-05-21
+australia,2022,australia_2022_table1.csv,23 May–5 Jun 2022,,GRN (Primary),19.8,2022-06-05,2022-05-21
+australia,2022,australia_2022_table1.csv,23 May–5 Jun 2022,,L/NP (Primary),31.9,2022-06-05,2022-05-21

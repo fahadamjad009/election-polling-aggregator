@@ -1,0 +1,223 @@
+country,election_year,source_table,date_raw,marker_text,marker_relevance,marker_party_rows,national_overlap_parties,marker_mae,marker_max_abs_error,matched_parties
+australia,2010,australia_2010_table0.csv,Election,Election | ,generic_current_candidate,6,2,0.01999999999999602,0.01999999999999602,ALP (2PP)|L/NP (2PP)
+australia,2013,australia_2013_table0.csv,7 Sep 2013,7 Sep 2013 | 2013 election,explicit_current_year,6,2,0.00999999999999801,0.00999999999999801,ALP (2PP)|L/NP (2PP)
+australia,2016,australia_2016_table2.csv,7 Sep 2013,7 Sep 2013 | 2013 election,historical_other_year,6,2,3.1400000000000006,3.1400000000000006,ALP (2PP)|L/NP (2PP)
+australia,2016,australia_2016_table2.csv,Election,Election | ,generic_current_candidate,6,2,0.03999999999999915,0.03999999999999915,ALP (2PP)|L/NP (2PP)
+australia,2025,australia_2025_table10.csv,21 May 2022,21 May 2022 | Election,historical_other_year,7,0,,,
+australia,2025,australia_2025_table10.csv,3 May 2025,3 May 2025 | Election[5],explicit_current_year,7,0,,,
+australia,2025,australia_2025_table11.csv,21 May 2022,21 May 2022 | Election,historical_other_year,7,0,,,
+australia,2025,australia_2025_table11.csv,3 May 2025,3 May 2025 | Election[5],explicit_current_year,7,0,,,
+australia,2025,australia_2025_table12.csv,21 May 2022,21 May 2022 | Election,historical_other_year,7,0,,,
+australia,2025,australia_2025_table12.csv,3 May 2025,3 May 2025 | Election[5],explicit_current_year,6,0,,,
+australia,2025,australia_2025_table13.csv,21 May 2022,21 May 2022 | Election,historical_other_year,7,0,,,
+australia,2025,australia_2025_table13.csv,3 May 2025,3 May 2025 | Election[5],explicit_current_year,7,0,,,
+australia,2025,australia_2025_table14.csv,21 May 2022,21 May 2022 | Election,historical_other_year,7,0,,,
+australia,2025,australia_2025_table14.csv,3 May 2025,3 May 2025 | Election[5],explicit_current_year,7,0,,,
+australia,2025,australia_2025_table15.csv,21 May 2022,21 May 2022 | Election,historical_other_year,6,0,,,
+australia,2025,australia_2025_table15.csv,3 May 2025,3 May 2025 | Election[5],explicit_current_year,6,0,,,
+australia,2025,australia_2025_table16.csv,21 May 2022,21 May 2022 | Election,historical_other_year,5,0,,,
+australia,2025,australia_2025_table16.csv,3 May 2025,3 May 2025 | Election[5],explicit_current_year,5,0,,,
+canada,2004,canada_2004_table11.csv,Voting result,Voting result | ,generic_current_candidate,5,5,2.477177898932096,7.9707006759160635,CPC|GPC|LPC|NDP|OTHER
+canada,2004,canada_2004_table12.csv,Voting result[4],Voting result[4] | ,generic_current_candidate,5,5,5.665845041048451,10.767959428817527,CPC|GPC|LPC|NDP|OTHER
+canada,2004,canada_2004_table13.csv,Voting result,Voting result | ,generic_current_candidate,5,5,11.073058460112136,32.06795942881753,CPC|GPC|LPC|NDP|OTHER
+canada,2004,canada_2004_table14.csv,Voting result,Voting result | ,generic_current_candidate,5,5,5.7288976285656705,10.916625606666482,CPC|GPC|LPC|NDP|OTHER
+canada,2004,canada_2004_table2.csv,Voting results,Voting results | ,generic_current_candidate,5,5,0.01994149521309101,0.0320405711824705,BQ|CPC|GPC|LPC|NDP
+canada,2004,canada_2004_table5.csv,Voting result[4],Voting result[4] | ,generic_current_candidate,5,5,3.2849363856279323,7.070700675916058,CPC|GPC|LPC|NDP|OTHER
+canada,2004,canada_2004_table6.csv,Election,Election | ,generic_current_candidate,6,6,12.479027606602292,36.51411050533952,BQ|CPC|GPC|LPC|NDP|OTHER
+canada,2006,canada_2006_table4.csv,23 January 2006,23 January 2006 | Election,explicit_current_year,5,5,0.024163031523113075,0.031267680936675646,BQ|CPC|GPC|LPC|NDP
+canada,2015,canada_2015_table1.csv,"October 19, 2015","October 19, 2015 | 2015 election",explicit_current_year,5,5,0.024983083844965483,0.03236148341912326,BQ|CPC|GPC|LPC|NDP
+canada,2015,canada_2015_table2.csv,"May 2, 2011","May 2, 2011 | 2011 election",historical_other_year,5,5,8.1878754132401,20.567638516580878,BQ|CPC|GPC|LPC|NDP
+canada,2019,canada_2019_table1.csv,"October 21, 2019","October 21, 2019 | 2019 election",explicit_current_year,6,5,0.06175221114680181,0.10788799986406161,BQ|CPC|GPC|LPC|NDP
+canada,2019,canada_2019_table2.csv,"October 19, 2015","October 19, 2015 | 2015 election",historical_other_year,5,5,3.760620511804633,6.432013971398078,BQ|CPC|GPC|LPC|NDP
+canada,2019,canada_2019_table8.csv,"October 19, 2015","October 19, 2015 | 2015 election",historical_other_year,6,6,7.9212887113721,17.70788799986406,BQ|CPC|GPC|LPC|NDP|OTHER
+canada,2019,canada_2019_table8.csv,"October 21, 2019","October 21, 2019 | 2019 election",explicit_current_year,7,6,8.929975044899654,24.807911163300886,BQ|CPC|GPC|LPC|NDP|OTHER
+canada,2021,canada_2021_table1.csv,"September 20, 2021","September 20, 2021 | 2021 election",explicit_current_year,6,0,,,
+canada,2021,canada_2021_table2.csv,"October 21, 2019","October 21, 2019 | 2019 election[g]",historical_other_year,6,0,,,
+canada,2025,canada_2025_table2.csv,"April 28, 2025","April 28, 2025 | 2025 election",explicit_current_year,6,0,,,
+canada,2025,canada_2025_table27.csv,"April 28, 2025","April 28, 2025 | 2025 election",explicit_current_year,3,0,,,
+canada,2025,canada_2025_table27.csv,"September 20, 2021","September 20, 2021 | 2021 election",historical_other_year,3,0,,,
+canada,2025,canada_2025_table3.csv,"September 20, 2021","September 20, 2021 | 2021 election",historical_other_year,6,0,,,
+uk,1997,uk_1997_table10.csv,1 May 1997,1 May 1997 | 1997 general election,explicit_current_year,3,3,26.998038467378652,37.70796614899999,CON|LAB|LIB
+uk,1997,uk_1997_table10.csv,9 Apr 1992,9 Apr 1992 | 1992 general election,historical_other_year,3,3,27.66470513404532,37.20796614899999,CON|LAB|LIB
+uk,1997,uk_1997_table2.csv,1 May 1997,1 May 1997 | 1997 general election,explicit_current_year,3,3,0.03137180071198742,0.04412217187569922,CON|LAB|LIB
+uk,1997,uk_1997_table7.csv,9 Apr 1992,9 Apr 1992 | 1992 general election,historical_other_year,3,3,7.031371800711988,11.244122171875699,CON|LAB|LIB
+uk,1997,uk_1997_table8.csv,1 May 1997,1 May 1997 | 1997 general election,explicit_current_year,4,3,6.4352948659546785,13.1558778281243,CON|LAB|LIB
+uk,1997,uk_1997_table8.csv,9 Apr 1992,9 Apr 1992 | 1992 general election,historical_other_year,4,3,4.30727229862134,5.055877828124299,CON|LAB|LIB
+uk,1997,uk_1997_table9.csv,1 May 1997,1 May 1997 | 1997 general election,explicit_current_year,3,3,25.96470513404532,36.307966148999995,CON|LAB|LIB
+uk,1997,uk_1997_table9.csv,9 Apr 1992,9 Apr 1992 | 1992 general election,historical_other_year,3,3,23.598038467378654,32.844122171875696,CON|LAB|LIB
+uk,2001,uk_2001_table1.csv,7 Jun 2001,7 Jun 2001 | 2001 general election[4],explicit_current_year,3,3,0.02316925801851492,0.0413772159337924,CON|LAB|LIB
+uk,2001,uk_2001_table5.csv,1 May 1997,1 May 1997 | 1997 general election[37],historical_other_year,3,3,1.6601135969137815,2.5249242823984446,CON|LAB|LIB
+uk,2001,uk_2001_table8.csv,1 May 1997,1 May 1997 | 1997 general election[49],historical_other_year,4,3,8.126780263580448,14.196793724276692,CON|LAB|LIB
+uk,2001,uk_2001_table8.csv,7 Jun 2001,7 Jun 2001 | 2001 general election[45],explicit_current_year,4,3,6.893446930247113,16.096793724276694,CON|LAB|LIB
+uk,2001,uk_2001_table9.csv,1 May 1997,1 May 1997 | 1997 general election[49],historical_other_year,4,3,10.693446930247115,14.024924282398445,CON|LAB|LIB
+uk,2001,uk_2001_table9.csv,7 Jun 2001,7 Jun 2001 | 2001 general election[45],explicit_current_year,4,3,7.693446930247114,10.696793724276692,CON|LAB|LIB
+uk,2005,uk_2005_table1.csv,5 May 2005,5 May 2005 | 2005 general election,explicit_current_year,3,3,0.8355230397565604,1.0154437096279239,CON|LAB|LIB
+uk,2005,uk_2005_table10.csv,5 May 2005,5 May 2005 | 2005 general election,explicit_current_year,4,3,15.176549866248395,20.861540239737757,CON|LAB|LIB
+uk,2005,uk_2005_table10.csv,7 Jun 2001,7 Jun 2001 | 2001 general election,historical_other_year,3,3,2.90988319958173,4.252665649379512,CON|LAB|LIB
+uk,2005,uk_2005_table5.csv,7 Jun 2001,7 Jun 2001 | 2001 general election,historical_other_year,3,3,3.467079273503552,6.815443709627921,CON|LAB|LIB
+uk,2005,uk_2005_table7.csv,5 May 2005,5 May 2005 | 2005 general election,explicit_current_year,4,3,7.143216532915063,16.561540239737756,CON|LAB|LIB
+uk,2005,uk_2005_table7.csv,7 Jun 2001,7 Jun 2001 | 2001 general election,historical_other_year,4,3,10.374772766662055,16.761540239737755,CON|LAB|LIB
+uk,2005,uk_2005_table8.csv,5 May 2005,5 May 2005 | 2005 general election,explicit_current_year,4,3,7.3747727666620575,10.961540239737758,CON|LAB|LIB
+uk,2005,uk_2005_table8.csv,7 Jun 2001,7 Jun 2001 | 2001 general election,historical_other_year,4,3,11.008106099995388,13.415443709627922,CON|LAB|LIB
+uk,2005,uk_2005_table9.csv,5 May 2005,5 May 2005 | 2005 general election,explicit_current_year,3,3,9.725227233337945,12.384556290372078,CON|LAB|LIB
+uk,2005,uk_2005_table9.csv,7 Jun 2001,7 Jun 2001 | 2001 general election,historical_other_year,3,3,8.058560566671277,9.15266564937951,CON|LAB|LIB
+uk,2010,uk_2010_table1.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,6,3,0.7093867730113862,0.8457128301765167,CON|LAB|LIB
+uk,2010,uk_2010_table10.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,4,3,10.997098896899871,14.654287169823483,CON|LAB|LIB
+uk,2010,uk_2010_table10.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,4,3,6.697098896899868,9.95428716982348,CON|LAB|LIB
+uk,2010,uk_2010_table11.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,3,3,8.363765563566535,11.009728504866882,CON|LAB|LIB
+uk,2010,uk_2010_table11.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,3,3,7.630432230233201,12.509728504866882,CON|LAB|LIB
+uk,2010,uk_2010_table12.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,3,3,6.363765563566535,13.009728504866882,CON|LAB|LIB
+uk,2010,uk_2010_table12.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,3,3,7.127574117017545,8.22728101600924,CON|LAB|LIB
+uk,2010,uk_2010_table13.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,3,3,7.66090745035088,13.009728504866882,CON|LAB|LIB
+uk,2010,uk_2010_table13.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,3,3,7.394240783684212,14.245712830176515,CON|LAB|LIB
+uk,2010,uk_2010_table14.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,3,3,8.0304322302332,14.009728504866882,CON|LAB|LIB
+uk,2010,uk_2010_table14.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,3,3,6.127574117017546,6.427281016009239,CON|LAB|LIB
+uk,2010,uk_2010_table15.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,3,3,7.363765563566535,14.009728504866882,CON|LAB|LIB
+uk,2010,uk_2010_table15.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,3,3,2.3942407836842143,3.90972850486688,CON|LAB|LIB
+uk,2010,uk_2010_table16.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,4,3,18.563765563566534,33.65428716982348,CON|LAB|LIB
+uk,2010,uk_2010_table16.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,5,3,21.79709889689987,29.054287169823482,CON|LAB|LIB
+uk,2010,uk_2010_table17.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,5,3,8.363765563566535,12.154287169823483,CON|LAB|LIB
+uk,2010,uk_2010_table17.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,5,3,7.223946560321948,12.354287169823483,CON|LAB|LIB
+uk,2010,uk_2010_table18.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,3,3,9.2304322302332,19.80972850486688,CON|LAB|LIB
+uk,2010,uk_2010_table18.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,3,3,7.594240783684213,9.745712830176515,CON|LAB|LIB
+uk,2010,uk_2010_table19.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,4,3,24.030432230233203,31.709728504866884,CON|LAB|LIB
+uk,2010,uk_2010_table19.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,4,3,27.397098896899866,32.60972850486688,CON|LAB|LIB
+uk,2010,uk_2010_table20.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,2,0,,,
+uk,2010,uk_2010_table20.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,5,3,28.463765563566536,39.30972850486688,CON|LAB|LIB
+uk,2010,uk_2010_table21.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,4,3,20.730432230233202,28.95428716982348,CON|LAB|LIB
+uk,2010,uk_2010_table21.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,4,3,25.8304322302332,33.30972850486688,CON|LAB|LIB
+uk,2010,uk_2010_table22.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,5,3,8.5304322302332,15.90972850486688,CON|LAB|LIB
+uk,2010,uk_2010_table22.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,5,3,3.894240783684213,4.72728101600924,CON|LAB|LIB
+uk,2010,uk_2010_table6.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,3,3,3.4637655635665348,7.209728504866884,CON|LAB|LIB
+uk,2010,uk_2010_table9.csv,5 May 2005,5 May 2005 | 2005 general election,historical_other_year,4,3,10.397098896899868,20.25428716982348,CON|LAB|LIB
+uk,2010,uk_2010_table9.csv,6 May 2010,6 May 2010 | 2010 general election,explicit_current_year,4,3,12.163765563566535,19.354287169823483,CON|LAB|LIB
+uk,2015,uk_2015_table2.csv,7 May 2015,7 May 2015 | 2015 general election[a],explicit_current_year,5,3,0.6569408825847208,0.9904884840064341,CON|LAB|LIB
+uk,2015,uk_2015_table7.csv,6 May 2010,6 May 2010 | 2010 general election[a],historical_other_year,5,3,5.523339639487762,15.729932299102291,CON|LAB|LIB
+uk,2017,uk_2017_table1.csv,8 Jun 2017,8 Jun 2017 | 2017 general election[a],explicit_current_year,6,3,0.8007142425965513,1.1555518376121583,CON|LAB|LIB
+uk,2017,uk_2017_table10.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,8.273726983218493,17.04444816238784,CON|LAB|LIB
+uk,2017,uk_2017_table10.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,5,3,8.740393649885162,15.511661838722567,CON|LAB|LIB
+uk,2017,uk_2017_table11.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,5.540393649885161,11.144448162387842,CON|LAB|LIB
+uk,2017,uk_2017_table11.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,5,3,7.673726983218491,14.911661838722566,CON|LAB|LIB
+uk,2017,uk_2017_table12.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,3.6326190907367812,9.74444816238784,CON|LAB|LIB
+uk,2017,uk_2017_table12.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,5,3,4.407060316551827,9.011661838722567,CON|LAB|LIB
+uk,2017,uk_2017_table13.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,3.769653649144887,8.388338161277431,CON|LAB|LIB
+uk,2017,uk_2017_table13.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,5,3,3.9774282082932664,8.355551837612161,CON|LAB|LIB
+uk,2017,uk_2017_table14.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,3.1659524240701167,7.088338161277434,CON|LAB|LIB
+uk,2017,uk_2017_table14.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,5,3,4.044094874959932,6.655551837612158,CON|LAB|LIB
+uk,2017,uk_2017_table15.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,8.492939683448173,17.988338161277433,CON|LAB|LIB
+uk,2017,uk_2017_table15.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,5,3,6.692939683448174,12.25555183761216,CON|LAB|LIB
+uk,2017,uk_2017_table16.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,3.830346350855114,7.444448162387843,CON|LAB|LIB
+uk,2017,uk_2017_table16.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,5,3,8.363679684188446,14.511661838722567,CON|LAB|LIB
+uk,2017,uk_2017_table17.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,10.726273016781505,21.688338161277432,CON|LAB|LIB
+uk,2017,uk_2017_table17.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,5,3,8.926273016781506,12.25555183761216,CON|LAB|LIB
+uk,2017,uk_2017_table18.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,11.392939683448175,22.288338161277434,CON|LAB|LIB
+uk,2017,uk_2017_table18.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,5,3,9.192939683448172,10.888338161277431,CON|LAB|LIB
+uk,2017,uk_2017_table19.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,3,3,5.402986982478221,10.055551837612157,CON|LAB|LIB
+uk,2017,uk_2017_table19.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,3,3,2.4636796841884454,5.911661838722566,CON|LAB|LIB
+uk,2017,uk_2017_table20.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,12.265952424070115,19.54444816238784,CON|LAB|LIB
+uk,2017,uk_2017_table20.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,4,2,18.166393161832637,23.144448162387842,CON|LAB
+uk,2017,uk_2017_table21.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,9.799285757403448,24.84444816238784,CON|LAB|LIB
+uk,2017,uk_2017_table21.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,4,3,14.007060316551827,22.644448162387842,CON|LAB|LIB
+uk,2017,uk_2017_table22.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,3,6.869653649144887,9.955551837612155,CON|LAB|LIB
+uk,2017,uk_2017_table22.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,4,3,2.397013017521779,4.834929051454928,CON|LAB|LIB
+uk,2017,uk_2017_table23.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,4,3,13.026273016781508,21.688338161277432,CON|LAB|LIB
+uk,2017,uk_2017_table23.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,3,3,9.792939683448173,16.25555183761216,CON|LAB|LIB
+uk,2017,uk_2017_table3.csv,7 May 2015,7 May 2015 | 2015 general election[f],historical_other_year,6,3,4.689238458373402,8.788338161277434,CON|LAB|LIB
+uk,2017,uk_2017_table4.csv,8 Jun 2017,8 Jun 2017 | 2017 general election[g],explicit_current_year,6,3,0.8007142425965513,1.1555518376121583,CON|LAB|LIB
+uk,2017,uk_2017_table7.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,6,3,14.422571791706735,27.444448162387843,CON|LAB|LIB
+uk,2017,uk_2017_table7.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,6,3,9.065952424070113,13.74444816238784,CON|LAB|LIB
+uk,2017,uk_2017_table8.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,6,3,6.365952424070116,15.144448162387842,CON|LAB|LIB
+uk,2017,uk_2017_table8.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,6,3,6.840393649885159,8.911661838722566,CON|LAB|LIB
+uk,2017,uk_2017_table9.csv,7 May 2015,7 May 2015 | 2015 general election,historical_other_year,5,0,,,
+uk,2017,uk_2017_table9.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,explicit_current_year,5,0,,,
+uk,2019,uk_2019_table10.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,0,,,
+uk,2019,uk_2019_table10.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,0,,,
+uk,2019,uk_2019_table11.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,10.334357881571597,16.023359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table11.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,11.898503357842317,22.423359418706312,CON|LAB|LIB
+uk,2019,uk_2019_table12.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,6,3,6.831836691175653,10.523359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table12.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,13.198503357842318,23.523359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table13.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,6,3,7.998503357842317,14.32335941870631,CON|LAB|LIB
+uk,2019,uk_2019_table13.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,12.131836691175652,22.923359418706312,CON|LAB|LIB
+uk,2019,uk_2019_table14.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,6,3,3.6318366911756503,6.723359418706309,CON|LAB|LIB
+uk,2019,uk_2019_table14.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,8.865170024508984,17.023359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table15.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,6,3,5.098975451761738,11.27406755958544,CON|LAB|LIB
+uk,2019,uk_2019_table15.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,7.614548397565945,8.423359418706312,CON|LAB|LIB
+uk,2019,uk_2019_table16.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,6,3,5.114548397565945,9.874067559585441,CON|LAB|LIB
+uk,2019,uk_2019_table16.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,7.714548397565946,10.523359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table17.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,6,3,7.66816330882435,13.574067559585444,CON|LAB|LIB
+uk,2019,uk_2019_table17.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,5.147881730899279,11.074067559585444,CON|LAB|LIB
+uk,2019,uk_2019_table18.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,5,3,9.101496642157683,10.574067559585444,CON|LAB|LIB
+uk,2019,uk_2019_table18.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,5.198975451761736,11.174067559585438,CON|LAB|LIB
+uk,2019,uk_2019_table19.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,5,3,8.20149664215768,9.27406755958544,CON|LAB|LIB
+uk,2019,uk_2019_table19.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,4.734829975491015,7.874067559585441,CON|LAB|LIB
+uk,2019,uk_2019_table2.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,7,3,0.3837362546285572,0.5240675595854469,CON|LAB|LIB
+uk,2019,uk_2019_table21.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,5,3,6.9478817308992795,12.023359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table21.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,10.065170024508985,19.82335941870631,CON|LAB|LIB
+uk,2019,uk_2019_table22.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,5,3,20.834357881571595,28.12593244041456,CON|LAB|LIB
+uk,2019,uk_2019_table22.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,21.634357881571592,27.325932440414558,CON|LAB|LIB
+uk,2019,uk_2019_table23.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,3,17.834829975491015,30.453781785593918,CON|LAB|LIB
+uk,2019,uk_2019_table23.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,6.701496642157681,8.174067559585438,CON|LAB|LIB
+uk,2019,uk_2019_table24.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,3,14.234829975491015,20.55378178559392,CON|LAB|LIB
+uk,2019,uk_2019_table24.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,7.168163308824347,9.674067559585438,CON|LAB|LIB
+uk,2019,uk_2019_table25.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,9.198975451761738,20.276640581293687,CON|LAB|LIB
+uk,2019,uk_2019_table25.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,6.934829975491016,14.27406755958544,CON|LAB|LIB
+uk,2019,uk_2019_table26.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,5,3,16.81878493576739,29.55378178559392,CON|LAB|LIB
+uk,2019,uk_2019_table26.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,16.152118269100722,29.453781785593918,CON|LAB|LIB
+uk,2019,uk_2019_table27.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,3,9.834829975491013,14.353781785593915,CON|LAB|LIB
+uk,2019,uk_2019_table27.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,3.5478817308992805,8.974067559585443,CON|LAB|LIB
+uk,2019,uk_2019_table28.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,3,8.181215064232612,13.82335941870631,CON|LAB|LIB
+uk,2019,uk_2019_table28.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,8.147881730899279,11.82335941870631,CON|LAB|LIB
+uk,2019,uk_2019_table29.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,9.252118269100722,19.153781785593914,CON|LAB|LIB
+uk,2019,uk_2019_table29.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,3.247881730899279,6.3233594187063105,CON|LAB|LIB
+uk,2019,uk_2019_table30.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,3,9.468163308824348,20.353781785593917,CON|LAB|LIB
+uk,2019,uk_2019_table30.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,6.681215064232611,11.723359418706309,CON|LAB|LIB
+uk,2019,uk_2019_table31.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,5.781215064232612,9.023359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table31.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,8.681215064232612,13.923359418706312,CON|LAB|LIB
+uk,2019,uk_2019_table32.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,3,7.001024548238263,9.753781785593917,CON|LAB|LIB
+uk,2019,uk_2019_table32.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,4.0676912149049285,10.123359418706315,CON|LAB|LIB
+uk,2019,uk_2019_table33.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,8.767691214904929,13.023359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table33.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,3.083736254628556,8.723359418706309,CON|LAB|LIB
+uk,2019,uk_2019_table34.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,3,23.61878493576739,41.55378178559392,CON|LAB|LIB
+uk,2019,uk_2019_table34.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,19.334829975491015,33.55378178559392,CON|LAB|LIB
+uk,2019,uk_2019_table35.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,2,2,12.06485711300424,18.90378178559392,CON|LIB
+uk,2019,uk_2019_table35.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,2,2,8.188924672589678,13.503781785593917,CON|LIB
+uk,2019,uk_2019_table36.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,10.134829975491014,13.27406755958544,CON|LAB|LIB
+uk,2019,uk_2019_table36.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,8.634829975491016,9.553781785593918,CON|LAB|LIB
+uk,2019,uk_2019_table37.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,7.781215064232614,9.023359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table37.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,9.781215064232612,16.423359418706312,CON|LAB|LIB
+uk,2019,uk_2019_table38.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,3,4.283736254628557,6.923359418706312,CON|LAB|LIB
+uk,2019,uk_2019_table38.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,6.767691214904929,14.853781785593915,CON|LAB|LIB
+uk,2019,uk_2019_table39.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,5,3,6.881215064232612,7.8462182144060835,CON|LAB|LIB
+uk,2019,uk_2019_table39.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,9.93183669117565,19.023359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table4.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,7,3,4.415170024508987,8.423359418706312,CON|LAB|LIB
+uk,2019,uk_2019_table40.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,2,17.325354070439566,22.17664058129369,CON|LAB
+uk,2019,uk_2019_table40.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,2,16.175354070439564,21.67406755958544,CON|LAB
+uk,2019,uk_2019_table41.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,3,22.268163308824352,33.45378178559392,CON|LAB|LIB
+uk,2019,uk_2019_table41.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,11.034829975491016,14.974067559585443,CON|LAB|LIB
+uk,2019,uk_2019_table42.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,3,3,17.768163308824352,27.65378178559392,CON|LAB|LIB
+uk,2019,uk_2019_table42.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,12.134829975491016,13.076640581293688,CON|LAB|LIB
+uk,2019,uk_2019_table43.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,7.665170024508986,16.523359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table43.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,6.9010245482382615,8.923359418706312,CON|LAB|LIB
+uk,2019,uk_2019_table44.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,5.081215064232613,8.023359418706313,CON|LAB|LIB
+uk,2019,uk_2019_table44.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,7.38121506423261,11.223359418706309,CON|LAB|LIB
+uk,2019,uk_2019_table45.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,13.018163308824349,15.253781785593917,CON|LAB|LIB
+uk,2019,uk_2019_table46.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,25.01878493576739,42.95378178559392,CON|LAB|LIB
+uk,2019,uk_2019_table46.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,20.318784935767386,35.753781785593915,CON|LAB|LIB
+uk,2019,uk_2019_table47.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,4,3,8.401496642157682,10.553781785593918,CON|LAB|LIB
+uk,2019,uk_2019_table47.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,5.281215064232613,9.974067559585443,CON|LAB|LIB
+uk,2019,uk_2019_table48.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,5,3,5.281215064232612,7.246218214406084,CON|LAB|LIB
+uk,2019,uk_2019_table48.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,8.647881730899279,16.82335941870631,CON|LAB|LIB
+uk,2019,uk_2019_table49.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,5,3,5.131836691175652,11.723359418706309,CON|LAB|LIB
+uk,2019,uk_2019_table49.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,3,7.247881730899279,14.623359418706315,CON|LAB|LIB
+uk,2019,uk_2019_table5.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,5,1,0.5462182144060836,0.5462182144060836,LIB
+uk,2019,uk_2019_table5.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,4,1,0.45378178559391635,0.45378178559391635,LIB
+uk,2019,uk_2019_table50.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,5,3,6.747881730899279,11.27406755958544,CON|LAB|LIB
+uk,2019,uk_2019_table50.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,3,3,9.198503357842316,17.32335941870631,CON|LAB|LIB
+uk,2019,uk_2019_table8.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,6,3,11.349597078704775,18.525932440414557,CON|LAB|LIB
+uk,2019,uk_2019_table8.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,8.249597078704776,15.025932440414557,CON|LAB|LIB
+uk,2019,uk_2019_table9.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,explicit_current_year,6,3,7.298503357842317,8.82335941870631,CON|LAB|LIB
+uk,2019,uk_2019_table9.csv,8 Jun 2017,8 Jun 2017 | 2017 general election,historical_other_year,5,3,11.298503357842316,16.82335941870631,CON|LAB|LIB
+uk,2024,uk_2024_table14.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,historical_other_year,4,0,,,
+uk,2024,uk_2024_table14.csv,4 Jul 2024,4 Jul 2024 | 2024 general election,explicit_current_year,4,0,,,
+uk,2024,uk_2024_table2.csv,4 Jul 2024,4 Jul 2024 | 2024 general election,explicit_current_year,6,0,,,
+uk,2024,uk_2024_table6.csv,12 Dec 2019,12 Dec 2019 | 2019 general election,historical_other_year,7,0,,,

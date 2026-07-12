@@ -1,0 +1,195 @@
+country,election_year,source_table,scope_status,override_status,effective_scope_status,effective_scope_reason,evidence,poll_party_rows
+australia,2010,australia_2010_table4.csv,review,,review,no usable current-cycle election marker,,28
+australia,2013,australia_2013_table2.csv,review,,review,no usable current-cycle election marker,,1668
+australia,2022,australia_2022_table14.csv,review,manual_rejected,manual_rejected,Subnational two-party-preferred series,Two-party values differ materially from national polling and represent a regional or state series,94
+australia,2022,australia_2022_table15.csv,review,manual_rejected,manual_rejected,Subnational two-party-preferred series,Two-party values differ materially from national polling and represent a regional or state series,98
+australia,2022,australia_2022_table16.csv,review,manual_rejected,manual_rejected,Subnational two-party-preferred series,Two-party values differ materially from national polling and represent a regional or state series,100
+australia,2022,australia_2022_table17.csv,review,manual_rejected,manual_rejected,Subnational two-party-preferred series,Two-party values differ materially from national polling and represent a regional or state series,74
+australia,2022,australia_2022_table18.csv,review,manual_rejected,manual_rejected,Subnational two-party-preferred series,Two-party values differ materially from national polling and represent a regional or state series,66
+australia,2022,australia_2022_table19.csv,review,manual_rejected,manual_rejected,Subnational two-party-preferred series,Two-party values differ materially from national polling and represent a regional or state series,48
+australia,2025,australia_2025_table10.csv,review,,review,fewer than 2 marker parties matched national actuals,,419
+australia,2025,australia_2025_table11.csv,review,,review,fewer than 2 marker parties matched national actuals,,427
+australia,2025,australia_2025_table12.csv,review,,review,fewer than 2 marker parties matched national actuals,,432
+australia,2025,australia_2025_table13.csv,review,,review,fewer than 2 marker parties matched national actuals,,187
+australia,2025,australia_2025_table14.csv,review,,review,fewer than 2 marker parties matched national actuals,,149
+australia,2025,australia_2025_table15.csv,review,,review,fewer than 2 marker parties matched national actuals,,32
+australia,2025,australia_2025_table16.csv,review,,review,fewer than 2 marker parties matched national actuals,,15
+australia,2025,australia_2025_table19.csv,review,,review,no usable current-cycle election marker,,124
+australia,2025,australia_2025_table2.csv,review,,review,no usable current-cycle election marker,,497
+australia,2025,australia_2025_table20.csv,review,,review,no usable current-cycle election marker,,98
+australia,2025,australia_2025_table21.csv,review,,review,no usable current-cycle election marker,,112
+australia,2025,australia_2025_table3.csv,review,,review,no usable current-cycle election marker,,904
+australia,2025,australia_2025_table4.csv,review,,review,no usable current-cycle election marker,,503
+australia,2025,australia_2025_table5.csv,review,,review,no usable current-cycle election marker,,118
+canada,2004,canada_2004_table10.csv,review,,review,no usable current-cycle election marker,,74
+canada,2004,canada_2004_table11.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,110
+canada,2004,canada_2004_table12.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,125
+canada,2004,canada_2004_table13.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,194
+canada,2004,canada_2004_table14.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,153
+canada,2004,canada_2004_table3.csv,review,,review,no usable current-cycle election marker,,67
+canada,2004,canada_2004_table4.csv,review,,review,no usable current-cycle election marker,,187
+canada,2004,canada_2004_table5.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,114
+canada,2004,canada_2004_table6.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,118
+canada,2004,canada_2004_table7.csv,review,,review,no usable current-cycle election marker,,96
+canada,2004,canada_2004_table8.csv,review,,review,no usable current-cycle election marker,,54
+canada,2004,canada_2004_table9.csv,review,,review,no usable current-cycle election marker,,53
+canada,2015,canada_2015_table2.csv,review,,review,no usable current-cycle election marker,,1250
+canada,2019,canada_2019_table11.csv,review,,review,no usable current-cycle election marker,,24
+canada,2019,canada_2019_table14.csv,review,,review,no usable current-cycle election marker,,15
+canada,2019,canada_2019_table2.csv,review,,review,no usable current-cycle election marker,,1920
+canada,2019,canada_2019_table4.csv,review,,review,no usable current-cycle election marker,,16
+canada,2019,canada_2019_table5.csv,review,,review,no usable current-cycle election marker,,14
+canada,2019,canada_2019_table6.csv,review,,review,no usable current-cycle election marker,,15
+canada,2019,canada_2019_table7.csv,review,,review,no usable current-cycle election marker,,15
+canada,2019,canada_2019_table8.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,115
+canada,2019,canada_2019_table9.csv,review,,review,no usable current-cycle election marker,,74
+canada,2021,canada_2021_table1.csv,review,,review,fewer than 2 marker parties matched national actuals,,912
+canada,2021,canada_2021_table10.csv,review,,review,no usable current-cycle election marker,,20
+canada,2021,canada_2021_table11.csv,review,,review,no usable current-cycle election marker,,24
+canada,2021,canada_2021_table13.csv,review,,review,no usable current-cycle election marker,,19
+canada,2021,canada_2021_table2.csv,review,,review,no usable current-cycle election marker,,1586
+canada,2021,canada_2021_table8.csv,review,,review,no usable current-cycle election marker,,15
+canada,2025,canada_2025_table11.csv,review,,review,no usable current-cycle election marker,,15
+canada,2025,canada_2025_table14.csv,review,,review,no usable current-cycle election marker,,114
+canada,2025,canada_2025_table15.csv,review,,review,no usable current-cycle election marker,,112
+canada,2025,canada_2025_table16.csv,review,,review,no usable current-cycle election marker,,28
+canada,2025,canada_2025_table19.csv,review,,review,no usable current-cycle election marker,,29
+canada,2025,canada_2025_table2.csv,review,,review,fewer than 2 marker parties matched national actuals,,1011
+canada,2025,canada_2025_table21.csv,review,,review,no usable current-cycle election marker,,25
+canada,2025,canada_2025_table22.csv,review,,review,no usable current-cycle election marker,,16
+canada,2025,canada_2025_table27.csv,review,,review,fewer than 2 marker parties matched national actuals,,12
+canada,2025,canada_2025_table3.csv,review,,review,no usable current-cycle election marker,,2528
+canada,2025,canada_2025_table4.csv,review,,review,no usable current-cycle election marker,,12
+canada,2025,canada_2025_table6.csv,review,,review,no usable current-cycle election marker,,83
+canada,2025,canada_2025_table7.csv,review,,review,no usable current-cycle election marker,,47
+canada,2025,canada_2025_table9.csv,review,,review,no usable current-cycle election marker,,15
+uk,1997,uk_1997_table10.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,11
+uk,1997,uk_1997_table3.csv,review,,review,no usable current-cycle election marker,,207
+uk,1997,uk_1997_table4.csv,review,,review,no usable current-cycle election marker,,153
+uk,1997,uk_1997_table5.csv,review,,review,no usable current-cycle election marker,,156
+uk,1997,uk_1997_table6.csv,review,,review,no usable current-cycle election marker,,138
+uk,1997,uk_1997_table7.csv,review,,review,no usable current-cycle election marker,,135
+uk,1997,uk_1997_table8.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,60
+uk,1997,uk_1997_table9.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2001,uk_2001_table2.csv,review,,review,no usable current-cycle election marker,,183
+uk,2001,uk_2001_table3.csv,review,,review,no usable current-cycle election marker,,120
+uk,2001,uk_2001_table4.csv,review,,review,no usable current-cycle election marker,,120
+uk,2001,uk_2001_table5.csv,review,,review,no usable current-cycle election marker,,60
+uk,2001,uk_2001_table8.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,104
+uk,2001,uk_2001_table9.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,48
+uk,2005,uk_2005_table10.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2005,uk_2005_table2.csv,review,,review,no usable current-cycle election marker,,216
+uk,2005,uk_2005_table3.csv,review,,review,no usable current-cycle election marker,,222
+uk,2005,uk_2005_table4.csv,review,,review,no usable current-cycle election marker,,165
+uk,2005,uk_2005_table5.csv,review,,review,no usable current-cycle election marker,,45
+uk,2005,uk_2005_table7.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,168
+uk,2005,uk_2005_table8.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,20
+uk,2005,uk_2005_table9.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2010,uk_2010_table10.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,48
+uk,2010,uk_2010_table11.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2010,uk_2010_table12.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2010,uk_2010_table13.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2010,uk_2010_table14.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2010,uk_2010_table15.csv,review,,review,marker comparison is inconclusive,,12
+uk,2010,uk_2010_table16.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,19
+uk,2010,uk_2010_table17.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,14
+uk,2010,uk_2010_table18.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,18
+uk,2010,uk_2010_table19.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,20
+uk,2010,uk_2010_table2.csv,review,,review,no usable current-cycle election marker,,694
+uk,2010,uk_2010_table20.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,16
+uk,2010,uk_2010_table21.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,16
+uk,2010,uk_2010_table22.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,20
+uk,2010,uk_2010_table24.csv,review,,review,no usable current-cycle election marker,,11
+uk,2010,uk_2010_table3.csv,review,,review,no usable current-cycle election marker,,312
+uk,2010,uk_2010_table4.csv,review,,review,no usable current-cycle election marker,,270
+uk,2010,uk_2010_table5.csv,review,,review,no usable current-cycle election marker,,204
+uk,2010,uk_2010_table6.csv,review,,review,no usable current-cycle election marker,,105
+uk,2010,uk_2010_table9.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,146
+uk,2015,uk_2015_table3.csv,review,,review,no usable current-cycle election marker,,2395
+uk,2015,uk_2015_table4.csv,review,,review,no usable current-cycle election marker,,2040
+uk,2015,uk_2015_table5.csv,review,,review,no usable current-cycle election marker,,1680
+uk,2015,uk_2015_table6.csv,review,,review,no usable current-cycle election marker,,1600
+uk,2015,uk_2015_table7.csv,review,,review,no usable current-cycle election marker,,970
+uk,2017,uk_2017_table10.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2017,uk_2017_table11.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2017,uk_2017_table12.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2017,uk_2017_table13.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2017,uk_2017_table14.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2017,uk_2017_table15.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2017,uk_2017_table16.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,45
+uk,2017,uk_2017_table17.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2017,uk_2017_table18.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2017,uk_2017_table19.csv,review,,review,marker comparison is inconclusive,,9
+uk,2017,uk_2017_table2.csv,review,,review,no usable current-cycle election marker,,474
+uk,2017,uk_2017_table20.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,14
+uk,2017,uk_2017_table21.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,14
+uk,2017,uk_2017_table22.csv,review,,review,marker comparison is inconclusive,,14
+uk,2017,uk_2017_table23.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,11
+uk,2017,uk_2017_table3.csv,review,,review,no usable current-cycle election marker,,258
+uk,2017,uk_2017_table7.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,110
+uk,2017,uk_2017_table8.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,101
+uk,2017,uk_2017_table9.csv,review,,review,fewer than 2 marker parties matched national actuals,,25
+uk,2019,uk_2019_table10.csv,review,,review,fewer than 2 marker parties matched national actuals,,24
+uk,2019,uk_2019_table11.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,52
+uk,2019,uk_2019_table12.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,27
+uk,2019,uk_2019_table13.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,27
+uk,2019,uk_2019_table14.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,27
+uk,2019,uk_2019_table15.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,27
+uk,2019,uk_2019_table16.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,27
+uk,2019,uk_2019_table17.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,22
+uk,2019,uk_2019_table18.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,19
+uk,2019,uk_2019_table19.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,19
+uk,2019,uk_2019_table21.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,14
+uk,2019,uk_2019_table22.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,14
+uk,2019,uk_2019_table23.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,11
+uk,2019,uk_2019_table24.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,9
+uk,2019,uk_2019_table25.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2019,uk_2019_table26.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,14
+uk,2019,uk_2019_table27.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2019,uk_2019_table28.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2019,uk_2019_table29.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,20
+uk,2019,uk_2019_table3.csv,review,,review,no usable current-cycle election marker,,989
+uk,2019,uk_2019_table30.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,25
+uk,2019,uk_2019_table31.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,16
+uk,2019,uk_2019_table32.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2019,uk_2019_table33.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,20
+uk,2019,uk_2019_table34.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,9
+uk,2019,uk_2019_table35.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2019,uk_2019_table36.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2019,uk_2019_table37.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,11
+uk,2019,uk_2019_table38.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,9
+uk,2019,uk_2019_table39.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,13
+uk,2019,uk_2019_table4.csv,review,,review,no usable current-cycle election marker,,421
+uk,2019,uk_2019_table40.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,8
+uk,2019,uk_2019_table41.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2019,uk_2019_table42.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,9
+uk,2019,uk_2019_table43.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,15
+uk,2019,uk_2019_table44.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2019,uk_2019_table45.csv,review,,review,no usable current-cycle election marker,,12
+uk,2019,uk_2019_table46.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,11
+uk,2019,uk_2019_table47.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,12
+uk,2019,uk_2019_table48.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,14
+uk,2019,uk_2019_table49.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,13
+uk,2019,uk_2019_table5.csv,review,,review,fewer than 2 marker parties matched national actuals,,115
+uk,2019,uk_2019_table50.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,13
+uk,2019,uk_2019_table8.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,196
+uk,2019,uk_2019_table9.csv,rejected_marker_mismatch,,rejected_marker_mismatch,election marker materially differs from national actual results,,114
+uk,2024,uk_2024_table10.csv,review,,review,no usable current-cycle election marker,,11
+uk,2024,uk_2024_table11.csv,review,,review,no usable current-cycle election marker,,29
+uk,2024,uk_2024_table12.csv,review,,review,no usable current-cycle election marker,,15
+uk,2024,uk_2024_table14.csv,review,,review,fewer than 2 marker parties matched national actuals,,190
+uk,2024,uk_2024_table2.csv,review,,review,fewer than 2 marker parties matched national actuals,,1711
+uk,2024,uk_2024_table3.csv,review,,review,no usable current-cycle election marker,,1975
+uk,2024,uk_2024_table4.csv,review,,review,no usable current-cycle election marker,,1791
+uk,2024,uk_2024_table5.csv,review,,review,no usable current-cycle election marker,,1597
+uk,2024,uk_2024_table6.csv,review,,review,no usable current-cycle election marker,,1116
+uk,2024,uk_2024_table7.csv,review,,review,no usable current-cycle election marker,,19
+uk,2024,uk_2024_table8.csv,review,,review,no usable current-cycle election marker,,39
+us,1968,pres_pollaverages_1968-2016.csv,review,,review,no usable current-cycle election marker,,693
+us,1972,pres_pollaverages_1968-2016.csv,review,,review,no usable current-cycle election marker,,496
+us,1976,pres_pollaverages_1968-2016.csv,review,,review,no usable current-cycle election marker,,502
+us,1980,pres_pollaverages_1968-2016.csv,review,,review,no usable current-cycle election marker,,722
+us,1984,pres_pollaverages_1968-2016.csv,review,,review,no usable current-cycle election marker,,502
+us,1988,pres_pollaverages_1968-2016.csv,review,,review,no usable current-cycle election marker,,502
+us,1992,pres_pollaverages_1968-2016.csv,review,,review,no usable current-cycle election marker,,722
+us,1996,pres_pollaverages_1968-2016.csv,review,,review,no usable current-cycle election marker,,753

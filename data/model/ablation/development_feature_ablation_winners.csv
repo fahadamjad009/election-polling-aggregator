@@ -1,0 +1,99 @@
+country,election_year,actual_winner,predicted_winner,correct,feature_set,model
+australia,2010,ALP (2PP),ALP (2PP),1,benchmark,final_polling_average
+australia,2013,L/NP (2PP),L/NP (2PP),1,benchmark,final_polling_average
+australia,2016,L/NP (2PP),L/NP (2PP),1,benchmark,final_polling_average
+canada,2004,LPC,LPC,1,benchmark,final_polling_average
+canada,2006,CPC,CPC,1,benchmark,final_polling_average
+canada,2008,CPC,CPC,1,benchmark,final_polling_average
+uk,1997,LAB,LAB,1,benchmark,final_polling_average
+uk,2001,LAB,LAB,1,benchmark,final_polling_average
+uk,2005,LAB,LAB,1,benchmark,final_polling_average
+uk,2010,CON,CON,1,benchmark,final_polling_average
+uk,2015,CON,CON,1,benchmark,final_polling_average
+us,2000,DEM,REP,0,benchmark,final_polling_average
+us,2004,REP,REP,1,benchmark,final_polling_average
+us,2008,DEM,DEM,1,benchmark,final_polling_average
+australia,2010,ALP (2PP),ALP (2PP),1,final_plus_recent,logistic_regression
+australia,2013,L/NP (2PP),L/NP (2PP),1,final_plus_recent,logistic_regression
+australia,2016,L/NP (2PP),ALP (2PP),0,final_plus_recent,logistic_regression
+canada,2004,LPC,LPC,1,final_plus_recent,logistic_regression
+canada,2006,CPC,LPC,0,final_plus_recent,logistic_regression
+canada,2008,CPC,CPC,1,final_plus_recent,logistic_regression
+uk,1997,LAB,LAB,1,final_plus_recent,logistic_regression
+uk,2001,LAB,LAB,1,final_plus_recent,logistic_regression
+uk,2005,LAB,LAB,1,final_plus_recent,logistic_regression
+uk,2010,CON,CON,1,final_plus_recent,logistic_regression
+uk,2015,CON,LAB,0,final_plus_recent,logistic_regression
+us,2000,DEM,REP,0,final_plus_recent,logistic_regression
+us,2004,REP,REP,1,final_plus_recent,logistic_regression
+us,2008,DEM,DEM,1,final_plus_recent,logistic_regression
+australia,2010,ALP (2PP),ALP (2PP),1,final_plus_recent,ridge_regression
+australia,2013,L/NP (2PP),L/NP (2PP),1,final_plus_recent,ridge_regression
+australia,2016,L/NP (2PP),L/NP (2PP),1,final_plus_recent,ridge_regression
+canada,2004,LPC,LPC,1,final_plus_recent,ridge_regression
+canada,2006,CPC,CPC,1,final_plus_recent,ridge_regression
+canada,2008,CPC,CPC,1,final_plus_recent,ridge_regression
+uk,1997,LAB,LAB,1,final_plus_recent,ridge_regression
+uk,2001,LAB,LAB,1,final_plus_recent,ridge_regression
+uk,2005,LAB,LAB,1,final_plus_recent,ridge_regression
+uk,2010,CON,CON,1,final_plus_recent,ridge_regression
+uk,2015,CON,CON,1,final_plus_recent,ridge_regression
+us,2000,DEM,REP,0,final_plus_recent,ridge_regression
+us,2004,REP,REP,1,final_plus_recent,ridge_regression
+us,2008,DEM,DEM,1,final_plus_recent,ridge_regression
+australia,2010,ALP (2PP),ALP (2PP),1,legacy_broad,logistic_regression
+australia,2013,L/NP (2PP),L/NP (2PP),1,legacy_broad,logistic_regression
+australia,2016,L/NP (2PP),L/NP (2PP),1,legacy_broad,logistic_regression
+canada,2004,LPC,LPC,1,legacy_broad,logistic_regression
+canada,2006,CPC,CPC,1,legacy_broad,logistic_regression
+canada,2008,CPC,CPC,1,legacy_broad,logistic_regression
+uk,1997,LAB,LAB,1,legacy_broad,logistic_regression
+uk,2001,LAB,LAB,1,legacy_broad,logistic_regression
+uk,2005,LAB,LAB,1,legacy_broad,logistic_regression
+uk,2010,CON,LIB,0,legacy_broad,logistic_regression
+uk,2015,CON,CON,1,legacy_broad,logistic_regression
+us,2000,DEM,REP,0,legacy_broad,logistic_regression
+us,2004,REP,REP,1,legacy_broad,logistic_regression
+us,2008,DEM,DEM,1,legacy_broad,logistic_regression
+australia,2010,ALP (2PP),ALP (2PP),1,legacy_broad,ridge_regression
+australia,2013,L/NP (2PP),L/NP (2PP),1,legacy_broad,ridge_regression
+australia,2016,L/NP (2PP),L/NP (2PP),1,legacy_broad,ridge_regression
+canada,2004,LPC,LPC,1,legacy_broad,ridge_regression
+canada,2006,CPC,CPC,1,legacy_broad,ridge_regression
+canada,2008,CPC,CPC,1,legacy_broad,ridge_regression
+uk,1997,LAB,LAB,1,legacy_broad,ridge_regression
+uk,2001,LAB,LAB,1,legacy_broad,ridge_regression
+uk,2005,LAB,LAB,1,legacy_broad,ridge_regression
+uk,2010,CON,CON,1,legacy_broad,ridge_regression
+uk,2015,CON,CON,1,legacy_broad,ridge_regression
+us,2000,DEM,REP,0,legacy_broad,ridge_regression
+us,2004,REP,REP,1,legacy_broad,ridge_regression
+us,2008,DEM,DEM,1,legacy_broad,ridge_regression
+australia,2010,ALP (2PP),ALP (2PP),1,recent_compact,logistic_regression
+australia,2013,L/NP (2PP),L/NP (2PP),1,recent_compact,logistic_regression
+australia,2016,L/NP (2PP),ALP (2PP),0,recent_compact,logistic_regression
+canada,2004,LPC,LPC,1,recent_compact,logistic_regression
+canada,2006,CPC,LPC,0,recent_compact,logistic_regression
+canada,2008,CPC,CPC,1,recent_compact,logistic_regression
+uk,1997,LAB,LAB,1,recent_compact,logistic_regression
+uk,2001,LAB,LAB,1,recent_compact,logistic_regression
+uk,2005,LAB,LAB,1,recent_compact,logistic_regression
+uk,2010,CON,CON,1,recent_compact,logistic_regression
+uk,2015,CON,LAB,0,recent_compact,logistic_regression
+us,2000,DEM,REP,0,recent_compact,logistic_regression
+us,2004,REP,REP,1,recent_compact,logistic_regression
+us,2008,DEM,DEM,1,recent_compact,logistic_regression
+australia,2010,ALP (2PP),ALP (2PP),1,recent_compact,ridge_regression
+australia,2013,L/NP (2PP),L/NP (2PP),1,recent_compact,ridge_regression
+australia,2016,L/NP (2PP),ALP (2PP),0,recent_compact,ridge_regression
+canada,2004,LPC,LPC,1,recent_compact,ridge_regression
+canada,2006,CPC,CPC,1,recent_compact,ridge_regression
+canada,2008,CPC,CPC,1,recent_compact,ridge_regression
+uk,1997,LAB,LAB,1,recent_compact,ridge_regression
+uk,2001,LAB,LAB,1,recent_compact,ridge_regression
+uk,2005,LAB,LAB,1,recent_compact,ridge_regression
+uk,2010,CON,CON,1,recent_compact,ridge_regression
+uk,2015,CON,LAB,0,recent_compact,ridge_regression
+us,2000,DEM,REP,0,recent_compact,ridge_regression
+us,2004,REP,REP,1,recent_compact,ridge_regression
+us,2008,DEM,DEM,1,recent_compact,ridge_regression

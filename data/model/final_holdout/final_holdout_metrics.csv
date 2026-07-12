@@ -1,0 +1,4 @@
+evaluation_set,task,model,metric,value,rows,elections
+chronological_holdout,vote_share_regression,final_polling_average,MAE,1.2434933088872802,25,8
+chronological_holdout,vote_share_regression,final_polling_average,RMSE,1.679918322096578,25,8
+chronological_holdout,winner_classification,final_polling_average,election_winner_accuracy,0.875,25,8

@@ -1,0 +1,23 @@
+﻿country,election_year,election_date,date_source
+australia,2010,2010-08-21,AEC-derived local tpp_national_1949_2022.csv
+australia,2013,2013-09-07,AEC-derived local tpp_national_1949_2022.csv
+australia,2016,2016-07-02,AEC-derived local tpp_national_1949_2022.csv
+australia,2019,2019-05-18,AEC-derived local tpp_national_1949_2022.csv
+australia,2022,2022-05-21,AEC-derived local tpp_national_1949_2022.csv
+canada,2004,2004-06-28,Elections Canada official general-election record
+canada,2006,2006-01-23,Elections Canada official general-election record
+canada,2008,2008-10-14,Elections Canada official general-election record
+canada,2015,2015-10-19,Elections Canada official general-election record
+canada,2019,2019-10-21,Elections Canada official general-election record
+uk,1997,1997-05-01,UK Parliament official previous-election record
+uk,2001,2001-06-07,UK Parliament official previous-election record
+uk,2005,2005-05-05,UK Parliament official previous-election record
+uk,2010,2010-05-06,UK Parliament official previous-election record
+uk,2015,2015-05-07,UK Parliament official previous-election record
+uk,2017,2017-06-08,UK Parliament official previous-election record
+uk,2019,2019-12-12,UK Parliament official previous-election record
+us,2000,2000-11-07,FiveThirtyEight local pres_pollaverages election_date
+us,2004,2004-11-02,FiveThirtyEight local pres_pollaverages election_date
+us,2008,2008-11-04,FiveThirtyEight local pres_pollaverages election_date
+us,2012,2012-11-06,FiveThirtyEight local pres_pollaverages election_date
+us,2016,2016-11-08,FiveThirtyEight local pres_pollaverages election_date

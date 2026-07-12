@@ -1,0 +1,219 @@
+country,election_year,source_table,poll_party_rows,party_count,party_signature,marker_candidate_count,best_marker_date_raw,best_marker_relevance,national_overlap_parties,marker_mae,marker_max_abs_error,scope_status,scope_reason
+australia,2010,australia_2010_table0.csv,463,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|LIB (Primary)|NAT (Primary)|OTHER (Primary),1,Election,generic_current_candidate,2,0.01999999999999602,0.01999999999999602,approved_marker_match,election marker closely matches national actual results
+australia,2010,australia_2010_table4.csv,28,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|LIB (Primary)|NAT (Primary)|OTHER (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2013,australia_2013_table0.csv,66,6,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|OTHER (Primary),1,7 Sep 2013,explicit_current_year,2,0.00999999999999801,0.00999999999999801,approved_marker_match,election marker closely matches national actual results
+australia,2013,australia_2013_table2.csv,1668,4,ALP (2PP)|ALP (Primary)|L/NP (2PP)|OTHER (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2016,australia_2016_table2.csv,1524,6,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|OTHER (Primary),2,Election,generic_current_candidate,2,0.03999999999999915,0.03999999999999915,approved_marker_match,election marker closely matches national actual results
+australia,2019,australia_2019_table1.csv,1175,6,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2022,australia_2022_table1.csv,366,8,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary)|UAP (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2022,australia_2022_table14.csv,94,2,ALP (2PP)|L/NP (2PP),0,,,0,,,review,no usable current-cycle election marker
+australia,2022,australia_2022_table15.csv,98,2,ALP (2PP)|L/NP (2PP),0,,,0,,,review,no usable current-cycle election marker
+australia,2022,australia_2022_table16.csv,100,2,ALP (2PP)|L/NP (2PP),0,,,0,,,review,no usable current-cycle election marker
+australia,2022,australia_2022_table17.csv,74,2,ALP (2PP)|L/NP (2PP),0,,,0,,,review,no usable current-cycle election marker
+australia,2022,australia_2022_table18.csv,66,2,ALP (2PP)|L/NP (2PP),0,,,0,,,review,no usable current-cycle election marker
+australia,2022,australia_2022_table19.csv,48,2,ALP (2PP)|L/NP (2PP),0,,,0,,,review,no usable current-cycle election marker
+australia,2022,australia_2022_table2.csv,771,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2025,australia_2025_table10.csv,419,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),2,3 May 2025,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+australia,2025,australia_2025_table11.csv,427,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),2,3 May 2025,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+australia,2025,australia_2025_table12.csv,432,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),2,3 May 2025,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+australia,2025,australia_2025_table13.csv,187,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),2,3 May 2025,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+australia,2025,australia_2025_table14.csv,149,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),2,3 May 2025,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+australia,2025,australia_2025_table15.csv,32,6,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|OTHER (Primary),2,3 May 2025,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+australia,2025,australia_2025_table16.csv,15,5,ALP (2PP)|ALP (Primary)|GRN (Primary)|ONP (Primary)|OTHER (Primary),2,3 May 2025,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+australia,2025,australia_2025_table19.csv,124,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2025,australia_2025_table2.csv,497,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2025,australia_2025_table20.csv,98,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2025,australia_2025_table21.csv,112,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2025,australia_2025_table3.csv,904,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2025,australia_2025_table4.csv,503,7,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary),0,,,0,,,review,no usable current-cycle election marker
+australia,2025,australia_2025_table5.csv,118,8,ALP (2PP)|ALP (Primary)|GRN (Primary)|L/NP (2PP)|L/NP (Primary)|ONP (Primary)|OTHER (Primary)|UAP (Primary),0,,,0,,,review,no usable current-cycle election marker
+canada,2004,canada_2004_table2.csv,203,5,BQ|CPC|GPC|LPC|NDP,1,Voting results,generic_current_candidate,5,0.01994149521309101,0.0320405711824705,approved_marker_match,election marker closely matches national actual results
+canada,2004,canada_2004_table11.csv,110,5,CPC|GPC|LPC|NDP|OTHER,1,Voting result,generic_current_candidate,5,2.477177898932096,7.9707006759160635,rejected_marker_mismatch,election marker materially differs from national actual results
+canada,2004,canada_2004_table12.csv,125,5,CPC|GPC|LPC|NDP|OTHER,1,Voting result[4],generic_current_candidate,5,5.665845041048451,10.767959428817527,rejected_marker_mismatch,election marker materially differs from national actual results
+canada,2004,canada_2004_table13.csv,194,5,CPC|GPC|LPC|NDP|OTHER,1,Voting result,generic_current_candidate,5,11.073058460112136,32.06795942881753,rejected_marker_mismatch,election marker materially differs from national actual results
+canada,2004,canada_2004_table14.csv,153,5,CPC|GPC|LPC|NDP|OTHER,1,Voting result,generic_current_candidate,5,5.7288976285656705,10.916625606666482,rejected_marker_mismatch,election marker materially differs from national actual results
+canada,2004,canada_2004_table5.csv,114,5,CPC|GPC|LPC|NDP|OTHER,1,Voting result[4],generic_current_candidate,5,3.2849363856279323,7.070700675916058,rejected_marker_mismatch,election marker materially differs from national actual results
+canada,2004,canada_2004_table6.csv,118,6,BQ|CPC|GPC|LPC|NDP|OTHER,1,Election,generic_current_candidate,6,12.479027606602292,36.51411050533952,rejected_marker_mismatch,election marker materially differs from national actual results
+canada,2004,canada_2004_table10.csv,74,5,BQ|LPC|NDP|OTHER|PC,0,,,0,,,review,no usable current-cycle election marker
+canada,2004,canada_2004_table3.csv,67,5,BQ|CPC|GPC|LPC|NDP,0,,,0,,,review,no usable current-cycle election marker
+canada,2004,canada_2004_table4.csv,187,4,BQ|LPC|NDP|PC,0,,,0,,,review,no usable current-cycle election marker
+canada,2004,canada_2004_table7.csv,96,4,BQ|CPC|LPC|NDP,0,,,0,,,review,no usable current-cycle election marker
+canada,2004,canada_2004_table8.csv,54,4,BQ|LPC|NDP|PC,0,,,0,,,review,no usable current-cycle election marker
+canada,2004,canada_2004_table9.csv,53,5,BQ|LPC|NDP|OTHER|PC,0,,,0,,,review,no usable current-cycle election marker
+canada,2006,canada_2006_table4.csv,964,5,BQ|CPC|GPC|LPC|NDP,1,23 January 2006,explicit_current_year,5,0.024163031523113075,0.031267680936675646,approved_marker_match,election marker closely matches national actual results
+canada,2008,canada_2008_table1.csv,1478,5,BQ|CPC|GPC|LPC|NDP,0,,,0,,,review,no usable current-cycle election marker
+canada,2015,canada_2015_table1.csv,575,5,BQ|CPC|GPC|LPC|NDP,1,"October 19, 2015",explicit_current_year,5,0.024983083844965483,0.03236148341912326,approved_marker_match,election marker closely matches national actual results
+canada,2015,canada_2015_table2.csv,1250,5,BQ|CPC|GPC|LPC|NDP,1,,,0,,,review,no usable current-cycle election marker
+canada,2019,canada_2019_table1.csv,703,6,BQ|CPC|GPC|LPC|NDP|PPC,1,"October 21, 2019",explicit_current_year,5,0.06175221114680181,0.10788799986406161,approved_marker_match,election marker closely matches national actual results
+canada,2019,canada_2019_table8.csv,115,7,BQ|CPC|GPC|LPC|NDP|OTHER|PPC,2,"October 21, 2019",explicit_current_year,6,8.929975044899654,24.807911163300886,rejected_marker_mismatch,election marker materially differs from national actual results
+canada,2019,canada_2019_table11.csv,24,6,CPC|GPC|LPC|NDP|OTHER|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2019,canada_2019_table14.csv,15,5,CPC|GPC|LPC|NDP|OTHER,0,,,0,,,review,no usable current-cycle election marker
+canada,2019,canada_2019_table2.csv,1920,6,BQ|CPC|GPC|LPC|NDP|PPC,1,,,0,,,review,no usable current-cycle election marker
+canada,2019,canada_2019_table4.csv,16,6,CPC|GPC|LPC|NDP|OTHER|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2019,canada_2019_table5.csv,14,5,CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2019,canada_2019_table6.csv,15,5,CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2019,canada_2019_table7.csv,15,5,CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2019,canada_2019_table9.csv,74,6,CPC|GPC|LPC|NDP|OTHER|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2021,canada_2021_table1.csv,912,6,BQ|CPC|GPC|LPC|NDP|PPC,1,"September 20, 2021",explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+canada,2021,canada_2021_table10.csv,20,5,CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2021,canada_2021_table11.csv,24,4,CPC|GPC|LPC|NDP,0,,,0,,,review,no usable current-cycle election marker
+canada,2021,canada_2021_table13.csv,19,4,CPC|GPC|LPC|NDP,0,,,0,,,review,no usable current-cycle election marker
+canada,2021,canada_2021_table2.csv,1586,6,BQ|CPC|GPC|LPC|NDP|PPC,1,,,0,,,review,no usable current-cycle election marker
+canada,2021,canada_2021_table8.csv,15,5,BQ|CPC|GPC|LPC|NDP,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table11.csv,15,5,CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table14.csv,114,6,BQ|CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table15.csv,112,5,CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table16.csv,28,5,CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table19.csv,29,5,CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table2.csv,1011,6,BQ|CPC|GPC|LPC|NDP|PPC,1,"April 28, 2025",explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+canada,2025,canada_2025_table21.csv,25,5,CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table22.csv,16,4,CPC|GPC|LPC|NDP,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table27.csv,12,3,BQ|GPC|NDP,2,"April 28, 2025",explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+canada,2025,canada_2025_table3.csv,2528,6,BQ|CPC|GPC|LPC|NDP|PPC,1,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table4.csv,12,4,BQ|CPC|GPC|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table6.csv,83,6,BQ|CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table7.csv,47,6,BQ|CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+canada,2025,canada_2025_table9.csv,15,5,CPC|GPC|LPC|NDP|PPC,0,,,0,,,review,no usable current-cycle election marker
+uk,1997,uk_1997_table2.csv,249,3,CON|LAB|LD,1,1 May 1997,explicit_current_year,3,0.03137180071198742,0.04412217187569922,approved_marker_match,election marker closely matches national actual results
+uk,1997,uk_1997_table10.csv,11,3,CON|LAB|LD,2,1 May 1997,explicit_current_year,3,26.998038467378652,37.70796614899999,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,1997,uk_1997_table8.csv,60,4,CON|LAB|LD|SNP,2,1 May 1997,explicit_current_year,3,6.4352948659546785,13.1558778281243,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,1997,uk_1997_table9.csv,12,3,CON|LAB|LD,2,1 May 1997,explicit_current_year,3,25.96470513404532,36.307966148999995,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,1997,uk_1997_table3.csv,207,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,1997,uk_1997_table4.csv,153,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,1997,uk_1997_table5.csv,156,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,1997,uk_1997_table6.csv,138,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,1997,uk_1997_table7.csv,135,3,CON|LAB|LD,1,,,0,,,review,no usable current-cycle election marker
+uk,2001,uk_2001_table1.csv,174,3,CON|LAB|LD,1,7 Jun 2001,explicit_current_year,3,0.02316925801851492,0.0413772159337924,approved_marker_match,election marker closely matches national actual results
+uk,2001,uk_2001_table8.csv,104,4,CON|LAB|LD|SNP,2,7 Jun 2001,explicit_current_year,3,6.893446930247113,16.096793724276694,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2001,uk_2001_table9.csv,48,4,CON|LAB|LD|PC,2,7 Jun 2001,explicit_current_year,3,7.693446930247114,10.696793724276692,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2001,uk_2001_table2.csv,183,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2001,uk_2001_table3.csv,120,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2001,uk_2001_table4.csv,120,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2001,uk_2001_table5.csv,60,3,CON|LAB|LD,1,,,0,,,review,no usable current-cycle election marker
+uk,2005,uk_2005_table1.csv,288,3,CON|LAB|LD,1,5 May 2005,explicit_current_year,3,0.8355230397565604,1.0154437096279239,approved_marker_match,election marker closely matches national actual results
+uk,2005,uk_2005_table10.csv,15,4,CON|LAB|LD|UKIP,2,5 May 2005,explicit_current_year,3,15.176549866248395,20.861540239737757,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2005,uk_2005_table7.csv,168,4,CON|LAB|LD|SNP,2,5 May 2005,explicit_current_year,3,7.143216532915063,16.561540239737756,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2005,uk_2005_table8.csv,20,4,CON|LAB|LD|PC,2,5 May 2005,explicit_current_year,3,7.3747727666620575,10.961540239737758,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2005,uk_2005_table9.csv,15,3,CON|LAB|LD,2,5 May 2005,explicit_current_year,3,9.725227233337945,12.384556290372078,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2005,uk_2005_table2.csv,216,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2005,uk_2005_table3.csv,222,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2005,uk_2005_table4.csv,165,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2005,uk_2005_table5.csv,45,3,CON|LAB|LD,1,,,0,,,review,no usable current-cycle election marker
+uk,2010,uk_2010_table1.csv,877,6,BNP|CON|GRN|LAB|LD|UKIP,1,6 May 2010,explicit_current_year,3,0.7093867730113862,0.8457128301765167,approved_marker_match,election marker closely matches national actual results
+uk,2010,uk_2010_table10.csv,48,4,CON|LAB|LD|PC,2,6 May 2010,explicit_current_year,3,6.697098896899868,9.95428716982348,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table11.csv,12,3,CON|LAB|LD,2,6 May 2010,explicit_current_year,3,7.630432230233201,12.509728504866882,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table12.csv,12,3,CON|LAB|LD,2,6 May 2010,explicit_current_year,3,7.127574117017545,8.22728101600924,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table13.csv,12,3,CON|LAB|LD,2,6 May 2010,explicit_current_year,3,7.394240783684212,14.245712830176515,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table14.csv,12,3,CON|LAB|LD,2,6 May 2010,explicit_current_year,3,6.127574117017546,6.427281016009239,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table16.csv,19,5,BGPV|CON|LAB|LD|PC,2,6 May 2010,explicit_current_year,3,21.79709889689987,29.054287169823482,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table17.csv,14,5,CON|GRN|LAB|LD|UKIP,2,6 May 2010,explicit_current_year,3,7.223946560321948,12.354287169823483,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table18.csv,18,3,CON|LAB|LD,2,6 May 2010,explicit_current_year,3,7.594240783684213,9.745712830176515,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table19.csv,20,4,CON|LAB|LD|SNP,2,6 May 2010,explicit_current_year,3,27.397098896899866,32.60972850486688,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table20.csv,16,5,BNP|CON|LAB|LD|SNP,2,6 May 2010,explicit_current_year,3,28.463765563566536,39.30972850486688,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table21.csv,16,4,CON|LAB|LD|SNP,2,6 May 2010,explicit_current_year,3,25.8304322302332,33.30972850486688,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table22.csv,20,5,CON|GRN|LAB|LD|UKIP,2,6 May 2010,explicit_current_year,3,3.894240783684213,4.72728101600924,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table9.csv,146,4,CON|LAB|LD|SNP,2,6 May 2010,explicit_current_year,3,12.163765563566535,19.354287169823483,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2010,uk_2010_table15.csv,12,3,CON|LAB|LD,2,6 May 2010,explicit_current_year,3,2.3942407836842143,3.90972850486688,review,marker comparison is inconclusive
+uk,2010,uk_2010_table2.csv,694,7,BNP|CON|GRN|LAB|LD|SNP|UKIP,0,,,0,,,review,no usable current-cycle election marker
+uk,2010,uk_2010_table24.csv,11,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2010,uk_2010_table3.csv,312,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2010,uk_2010_table4.csv,270,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2010,uk_2010_table5.csv,204,3,CON|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2010,uk_2010_table6.csv,105,3,CON|LAB|LD,1,,,0,,,review,no usable current-cycle election marker
+uk,2015,uk_2015_table2.csv,1160,5,CON|GRN|LAB|LD|UKIP,1,7 May 2015,explicit_current_year,3,0.6569408825847208,0.9904884840064341,approved_marker_match,election marker closely matches national actual results
+uk,2015,uk_2015_table3.csv,2395,5,CON|GRN|LAB|LD|UKIP,0,,,0,,,review,no usable current-cycle election marker
+uk,2015,uk_2015_table4.csv,2040,5,CON|GRN|LAB|LD|UKIP,0,,,0,,,review,no usable current-cycle election marker
+uk,2015,uk_2015_table5.csv,1680,5,CON|GRN|LAB|LD|UKIP,0,,,0,,,review,no usable current-cycle election marker
+uk,2015,uk_2015_table6.csv,1600,5,CON|GRN|LAB|LD|UKIP,0,,,0,,,review,no usable current-cycle election marker
+uk,2015,uk_2015_table7.csv,970,5,CON|GRN|LAB|LD|UKIP,1,,,0,,,review,no usable current-cycle election marker
+uk,2017,uk_2017_table1.csv,691,6,CON|GRN|LAB|LD|SNP|UKIP,1,8 Jun 2017,explicit_current_year,3,0.8007142425965513,1.1555518376121583,approved_marker_match,election marker closely matches national actual results
+uk,2017,uk_2017_table4.csv,54,6,CON|GRN|LAB|LD|SNP|UKIP,1,8 Jun 2017,explicit_current_year,3,0.8007142425965513,1.1555518376121583,approved_marker_match,election marker closely matches national actual results
+uk,2017,uk_2017_table10.csv,15,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,8.740393649885162,15.511661838722567,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table11.csv,15,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,7.673726983218491,14.911661838722566,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table12.csv,15,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,4.407060316551827,9.011661838722567,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table13.csv,15,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,3.9774282082932664,8.355551837612161,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table14.csv,15,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,4.044094874959932,6.655551837612158,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table15.csv,15,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,6.692939683448174,12.25555183761216,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table16.csv,45,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,8.363679684188446,14.511661838722567,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table17.csv,15,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,8.926273016781506,12.25555183761216,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table18.csv,15,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,9.192939683448172,10.888338161277431,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table20.csv,14,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,2,18.166393161832637,23.144448162387842,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table21.csv,14,5,CON|GRN|LAB|LD|SNP,2,8 Jun 2017,explicit_current_year,3,14.007060316551827,22.644448162387842,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table23.csv,11,4,CON|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,9.792939683448173,16.25555183761216,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table7.csv,110,6,CON|GRN|LAB|LD|SNP|UKIP,2,8 Jun 2017,explicit_current_year,3,9.065952424070113,13.74444816238784,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table8.csv,101,6,CON|GRN|LAB|LD|PC|UKIP,2,8 Jun 2017,explicit_current_year,3,6.840393649885159,8.911661838722566,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2017,uk_2017_table19.csv,9,3,CON|LAB|LD,2,8 Jun 2017,explicit_current_year,3,2.4636796841884454,5.911661838722566,review,marker comparison is inconclusive
+uk,2017,uk_2017_table2.csv,474,5,CON|GRN|LAB|LD|UKIP,0,,,0,,,review,no usable current-cycle election marker
+uk,2017,uk_2017_table22.csv,14,5,CON|GRN|LAB|LD|UKIP,2,8 Jun 2017,explicit_current_year,3,2.397013017521779,4.834929051454928,review,marker comparison is inconclusive
+uk,2017,uk_2017_table3.csv,258,6,CON|GRN|LAB|LD|SNP|UKIP,1,,,0,,,review,no usable current-cycle election marker
+uk,2017,uk_2017_table9.csv,25,5,DUP|GPNI|SDLP|SF|UUP,2,8 Jun 2017,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+uk,2019,uk_2019_table2.csv,1713,7,BRX|CON|GRN|LAB|LD|PC|SNP,1,12 Dec 2019,explicit_current_year,3,0.3837362546285572,0.5240675595854469,approved_marker_match,election marker closely matches national actual results
+uk,2019,uk_2019_table11.csv,52,5,CON|GRN|LAB|LD|UKIP,2,12 Dec 2019,explicit_current_year,3,10.334357881571597,16.023359418706313,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table12.csv,27,6,BRX|CON|GRN|LAB|LD|UKIP,2,12 Dec 2019,explicit_current_year,3,6.831836691175653,10.523359418706313,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table13.csv,27,6,BRX|CON|GRN|LAB|LD|UKIP,2,12 Dec 2019,explicit_current_year,3,7.998503357842317,14.32335941870631,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table14.csv,27,6,BRX|CON|GRN|LAB|LD|UKIP,2,12 Dec 2019,explicit_current_year,3,3.6318366911756503,6.723359418706309,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table15.csv,27,6,BRX|CON|GRN|LAB|LD|UKIP,2,12 Dec 2019,explicit_current_year,3,5.098975451761738,11.27406755958544,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table16.csv,27,6,BRX|CON|GRN|LAB|LD|UKIP,2,12 Dec 2019,explicit_current_year,3,5.114548397565945,9.874067559585441,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table17.csv,22,6,BRX|CON|GRN|LAB|LD|UKIP,2,12 Dec 2019,explicit_current_year,3,7.66816330882435,13.574067559585444,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table18.csv,19,5,CON|GRN|LAB|LD|UKIP,2,12 Dec 2019,explicit_current_year,3,9.101496642157683,10.574067559585444,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table19.csv,19,5,CON|GRN|LAB|LD|UKIP,2,12 Dec 2019,explicit_current_year,3,8.20149664215768,9.27406755958544,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table21.csv,14,5,BRX|CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,6.9478817308992795,12.023359418706313,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table22.csv,14,5,BRX|CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,20.834357881571595,28.12593244041456,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table23.csv,11,4,CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,17.834829975491015,30.453781785593918,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table24.csv,9,3,CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,14.234829975491015,20.55378178559392,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table25.csv,12,4,CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,9.198975451761738,20.276640581293687,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table26.csv,14,5,BRX|CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,16.81878493576739,29.55378178559392,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table27.csv,12,3,CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,9.834829975491013,14.353781785593915,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table28.csv,12,3,CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,8.181215064232612,13.82335941870631,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table29.csv,20,4,CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,9.252118269100722,19.153781785593914,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table30.csv,25,4,CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,9.468163308824348,20.353781785593917,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table31.csv,16,4,CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,5.781215064232612,9.023359418706313,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table32.csv,15,3,CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,7.001024548238263,9.753781785593917,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table33.csv,20,4,CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,8.767691214904929,13.023359418706313,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table34.csv,9,3,CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,23.61878493576739,41.55378178559392,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table35.csv,12,2,CON|LD,2,12 Dec 2019,explicit_current_year,2,12.06485711300424,18.90378178559392,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table36.csv,12,4,CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,10.134829975491014,13.27406755958544,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table37.csv,11,4,BRX|CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,7.781215064232614,9.023359418706313,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table38.csv,9,3,CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,4.283736254628557,6.923359418706312,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table39.csv,13,5,BRX|CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,6.881215064232612,7.8462182144060835,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table40.csv,8,3,CON|GRN|LAB,2,12 Dec 2019,explicit_current_year,2,17.325354070439566,22.17664058129369,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table41.csv,12,3,CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,22.268163308824352,33.45378178559392,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table42.csv,9,3,CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,17.768163308824352,27.65378178559392,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table43.csv,15,4,BRX|CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,7.665170024508986,16.523359418706313,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table44.csv,12,4,CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,5.081215064232613,8.023359418706313,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table46.csv,11,4,BRX|CON|LAB|LD,2,12 Dec 2019,explicit_current_year,3,25.01878493576739,42.95378178559392,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table47.csv,12,4,CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,8.401496642157682,10.553781785593918,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table48.csv,14,5,BRX|CON|LAB|LD|PC,2,12 Dec 2019,explicit_current_year,3,5.281215064232612,7.246218214406084,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table49.csv,13,5,BRX|CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,5.131836691175652,11.723359418706309,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table50.csv,13,5,BRX|CON|GRN|LAB|LD,2,12 Dec 2019,explicit_current_year,3,6.747881730899279,11.27406755958544,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table8.csv,196,6,BRX|CON|GRN|LAB|LD|SNP,2,12 Dec 2019,explicit_current_year,3,11.349597078704775,18.525932440414557,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table9.csv,114,6,BRX|CON|GRN|LAB|LD|PC,2,12 Dec 2019,explicit_current_year,3,7.298503357842317,8.82335941870631,rejected_marker_mismatch,election marker materially differs from national actual results
+uk,2019,uk_2019_table10.csv,24,4,DUP|SDLP|SF|UUP,2,12 Dec 2019,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+uk,2019,uk_2019_table3.csv,989,7,CON|GRN|LAB|LD|PC|SNP|UKIP,0,,,0,,,review,no usable current-cycle election marker
+uk,2019,uk_2019_table4.csv,421,7,CON|GRN|LAB|LD|PC|SNP|UKIP,1,,,0,,,review,no usable current-cycle election marker
+uk,2019,uk_2019_table45.csv,12,4,CON|GRN|LAB|LD,1,,,0,,,review,no usable current-cycle election marker
+uk,2019,uk_2019_table5.csv,115,5,BRX|GRN|LD|PC|SNP,2,12 Dec 2019,explicit_current_year,1,0.5462182144060836,0.5462182144060836,review,fewer than 2 marker parties matched national actuals
+uk,2024,uk_2024_table10.csv,11,4,CON|GRN|LAB|LD,0,,,0,,,review,no usable current-cycle election marker
+uk,2024,uk_2024_table11.csv,29,5,CON|GRN|LAB|LD|SNP,0,,,0,,,review,no usable current-cycle election marker
+uk,2024,uk_2024_table12.csv,15,5,CON|GRN|LAB|LD|SNP,0,,,0,,,review,no usable current-cycle election marker
+uk,2024,uk_2024_table14.csv,190,4,GRN|LD|PC|SNP,2,4 Jul 2024,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+uk,2024,uk_2024_table2.csv,1711,6,CON|GRN|LAB|LD|PC|SNP,1,4 Jul 2024,explicit_current_year,0,,,review,fewer than 2 marker parties matched national actuals
+uk,2024,uk_2024_table3.csv,1975,5,CON|GRN|LAB|LD|SNP,0,,,0,,,review,no usable current-cycle election marker
+uk,2024,uk_2024_table4.csv,1791,5,CON|GRN|LAB|LD|SNP,0,,,0,,,review,no usable current-cycle election marker
+uk,2024,uk_2024_table5.csv,1597,6,CON|GRN|LAB|LD|PC|SNP,0,,,0,,,review,no usable current-cycle election marker
+uk,2024,uk_2024_table6.csv,1116,7,BRX|CON|GRN|LAB|LD|PC|SNP,1,,,0,,,review,no usable current-cycle election marker
+uk,2024,uk_2024_table7.csv,19,5,CON|GRN|LAB|LD|SNP,0,,,0,,,review,no usable current-cycle election marker
+uk,2024,uk_2024_table8.csv,39,5,CON|GRN|LAB|LD|SNP,0,,,0,,,review,no usable current-cycle election marker
+us,1968,pres_pollaverages_1968-2016.csv,693,2,OTHER|REP,0,,,0,,,review,no usable current-cycle election marker
+us,1972,pres_pollaverages_1968-2016.csv,496,2,DEM|REP,0,,,0,,,review,no usable current-cycle election marker
+us,1976,pres_pollaverages_1968-2016.csv,502,2,DEM|REP,0,,,0,,,review,no usable current-cycle election marker
+us,1980,pres_pollaverages_1968-2016.csv,722,3,DEM|OTHER|REP,0,,,0,,,review,no usable current-cycle election marker
+us,1984,pres_pollaverages_1968-2016.csv,502,2,DEM|REP,0,,,0,,,review,no usable current-cycle election marker
+us,1988,pres_pollaverages_1968-2016.csv,502,2,DEM|REP,0,,,0,,,review,no usable current-cycle election marker
+us,1992,pres_pollaverages_1968-2016.csv,722,3,DEM|OTHER|REP,0,,,0,,,review,no usable current-cycle election marker
+us,1996,pres_pollaverages_1968-2016.csv,753,3,DEM|OTHER|REP,0,,,0,,,review,no usable current-cycle election marker
+us,2000,pres_pollaverages_1968-2016.csv,753,3,DEM|OTHER|REP,0,,,0,,,review,no usable current-cycle election marker
+us,2004,pres_pollaverages_1968-2016.csv,502,2,DEM|REP,0,,,0,,,review,no usable current-cycle election marker
+us,2008,pres_pollaverages_1968-2016.csv,502,2,DEM|REP,0,,,0,,,review,no usable current-cycle election marker
+us,2012,pres_pollaverages_1968-2016.csv,502,2,DEM|REP,0,,,0,,,review,no usable current-cycle election marker
+us,2016,pres_pollaverages_1968-2016.csv,736,3,DEM|OTHER|REP,0,,,0,,,review,no usable current-cycle election marker

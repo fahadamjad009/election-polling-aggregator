@@ -1,0 +1,255 @@
+rank,country,pollster,mean_abs_error,n_polls_scored
+1,australia,Galaxy[34],0.7224999999999984,8
+2,canada,EKOS[3],1.1594748880897694,30
+3,canada,Unimarketing,1.1962654256155014,5
+4,uk,YouGov Archived 14 November 2019 at the Wayback Machine,1.2378217332612087,14
+5,australia,Nielsen[36],1.25,8
+6,uk,BPIX[1],1.3173367948795214,8
+7,uk,SavantaComRes/The Sunday Telegraph,1.441312596227102,6
+8,uk,YouGov/The Times/Sky News,1.4924063170895607,6
+9,canada,Decima Research (with Greens),1.5640166386517445,5
+10,australia,Resolve Strategic[15],1.6633333333333364,6
+11,canada,Angus Reid Strategies,1.6740620952540115,125
+12,australia,Ipsos,1.6933333333333327,6
+13,uk,ICM[dead link][3],1.7269517349450823,6
+14,australia,Nielsen[33],1.75,8
+15,uk,Harris Interactive[permanent dead link],1.7970814485399356,20
+16,australia,Galaxy[35],1.836666666666666,6
+17,australia,Galaxy[38],1.8433333333333313,6
+18,canada,Asking Canadians[1],1.8450015071242525,5
+19,canada,EKOS Research Associates,1.853151210655683,150
+20,canada,COMPAS,1.8865987812583438,9
+21,canada,DART/Maru,1.9406357271035395,35
+22,uk,Survation/Good Morning Britain[d],1.9406483331482651,6
+23,uk,YouGov[permanent dead link],1.965015649105416,18
+24,uk,Opinium[permanent dead link],2.0544980406637046,16
+25,uk,ICM Research,2.0629662202072794,8
+26,uk,SavantaComRes/The Daily Telegraph,2.120630278336648,10
+27,uk,YouGov[1],2.1553326284013585,182
+28,australia,Morgan (phone),2.1769999999999996,40
+29,uk,Communicate[permanent dead link],2.1805787807373544,12
+30,canada,Research Co.,2.1876248817047452,15
+31,uk,Rasmussen,2.189065279060875,8
+32,australia,Roy Morgan[196],2.210000000000001,6
+33,uk,Populus[dead link],2.2406036634986357,54
+34,australia,Roy Morgan[70],2.2449999999999974,8
+35,uk,YouGov/Sunday Times[permanent dead link],2.3704451743259387,6
+36,australia,Resolve Strategic[101],2.405000000000003,8
+37,australia,Newspoll[206],2.4349999999999987,8
+38,australia,Morgan (multi),2.4909999999999997,60
+39,australia,Resolve Strategic[187],2.500370370370371,54
+40,canada,SES Research,2.5174836902491093,45
+41,canada,Ipsos-Reid,2.564571896179031,297
+42,australia,Resolve Strategic[175],2.5650000000000013,8
+43,uk,NOP[1],2.5802823141283917,30
+44,canada,Segma,2.5863942894375382,20
+45,australia,Newspoll,2.6084210526315785,190
+46,canada,Campaign Research,2.667842837484313,145
+47,australia,Newspoll[citation needed],2.6739999999999995,20
+48,australia,ReachTEL[22],2.6980000000000004,10
+49,australia,Morgan (face),2.72493670886076,158
+50,australia,Essential,2.7661538461538457,52
+51,canada,Strategic Counsel,2.819843209556682,385
+52,uk,Populus[1],2.9128633572779323,22
+53,canada,UniMarketing,2.954074967613092,5
+54,uk,Qriously,2.9983921699145717,6
+55,australia,Nielsen[37],3.004999999999999,8
+56,canada,Nanos Research,3.0063128705371547,1785
+57,australia,Roy Morgan[81],3.038571428571428,14
+58,australia,Roy Morgan[citation needed],3.050000000000001,26
+59,australia,Roy Morgan[114],3.0780000000000016,10
+60,australia,ReachTEL,3.2171428571428566,14
+61,uk,MORI/Evening Standard,3.2239558395621533,6
+62,uk,ICM[1],3.22865237429128,36
+63,canada,Innovative Research,3.269664046157412,160
+64,canada,Mainstreet Research,3.2909250785569273,267
+65,uk,Populus[permanent dead link],3.294064237705768,6
+66,canada,Léger Marketing,3.2978977258036246,60
+67,canada,Decima Research,3.3007552873431347,213
+68,australia,Nielsen[40],3.309999999999998,20
+69,uk,ComRes[1],3.3261774838511684,20
+70,uk,ICM[dead link],3.367814574590638,96
+71,uk,ICM/The Guardian[permanent dead link],3.386115108767652,10
+72,canada,Nanos,3.4658765592972243,23
+73,australia,Resolve Strategic[197],3.4749999999999996,8
+74,australia,Roy Morgan[199],3.4780000000000015,10
+75,australia,AMR[16],3.4966666666666675,6
+76,canada,Probe Research,3.522053604127921,20
+77,canada,Corbett Communications,3.535519520561575,10
+78,canada,Harris-Decima,3.5478934518648697,333
+79,uk,ICM[permanent dead link],3.568004794585801,34
+80,uk,ICM/Guardian,3.58223954674146,130
+81,australia,Roy Morgan[18],3.5833333333333335,12
+82,australia,Roy Morgan[90],3.5833333333333335,12
+83,uk,YouGov[257],3.5866324005130195,10
+84,canada,Ipsos Reid,3.6619488587095996,272
+85,australia,Roy Morgan[84],3.6666666666666665,12
+86,canada,Pollara,3.6803926666917235,47
+87,uk,ICM/Sunday Express,3.70293891406215,8
+88,uk,Kantar[permanent dead link],3.7053021620779107,10
+89,uk,ICM/Sunday Telegraph,3.7407256717907234,14
+90,canada,Decima,3.7540749676130925,15
+91,canada,Leger Marketing,3.7875759880083018,108
+92,canada,Oraclepoll Research,3.7966269375585937,5
+93,australia,Roy Morgan[72],3.8014285714285703,14
+94,uk,ComRes[permanent dead link],3.8259068891739,12
+95,uk,TNS-BMRB[permanent dead link],3.860803233996874,6
+96,uk,ComRes[273],3.8621337882302638,8
+97,uk,Panelbase,3.8805180136671233,12
+98,canada,EKOS,3.89094221882255,575
+99,uk,ICM/Observer,3.9155016540155407,16
+100,canada,Angus Reid,3.988502252409957,184
+101,uk,Survation/The Economist,4.0,8
+102,canada,Abacus Data,4.065955163249773,425
+103,uk,Gallup/Channel 4,4.1200372874792865,6
+104,canada,Stratcom,4.120620511804633,5
+105,uk,Survation/Daily Mirror,4.129889712878595,24
+106,canada,Forum Research,4.174736827617295,613
+107,uk,TNS,4.21841822878104,26
+108,australia,Newspoll[202],4.226000000000001,10
+109,australia,Roy Morgan[32],4.289999999999999,12
+110,uk,ICM/The Guardian[9],4.2923960165445845,36
+111,uk,Survation/Good Morning Britain,4.299469359964839,16
+112,uk,Angus Reid Strategies[permanent dead link],4.301325495988151,6
+113,canada,GPC P.A.,4.3101577974563146,5
+114,uk,YouGov/Daily Telegraph,4.312840321614817,48
+115,uk,Lord Ashcroft,4.338373275189718,94
+116,uk,YouGov/The Sun on Sunday,4.346623356986169,6
+117,australia,Newspoll[203],4.376666666666668,6
+118,uk,ComRes/The Independent,4.394249780723364,10
+119,uk,ComRes,4.416615678382125,50
+120,australia,Roy Morgan[65],4.456666666666666,12
+121,uk,Gallup/Sunday Telegraph,4.482047468468928,8
+122,uk,Populus/The Times,4.494425875149883,36
+123,uk,ICM/The Guardian[7],4.56884557920839,18
+124,uk,"ComRes/Sunday Mirror, Independent on Sunday[permanent dead link]",4.579956690319501,10
+125,uk,Marketing Means[19],4.652534851808999,6
+126,australia,Newspoll[200],4.678000000000002,10
+127,uk,Populus,4.679706392717184,422
+128,uk,Populus/Financial Times,4.679956690319502,6
+129,uk,ORB/Sunday Telegraph,4.690834631922364,10
+130,australia,Roy Morgan[190],4.829999999999998,12
+131,uk,ComRes/The Independent on Sunday/Sunday Mirror[permanent dead link],4.844249780723364,20
+132,uk,ComRes/The Independent[permanent dead link],4.849621038444692,44
+133,uk,YouGov[266],4.862098335722888,6
+134,australia,Newspoll[201],4.878000000000002,10
+135,australia,Roy Morgan[85],4.895714285714285,14
+136,uk,MORI[1],4.911969798057226,112
+137,uk,MORI/Sunday Times,4.948032658656425,32
+138,uk,Ipsos MORI/The Sun,5.0139121140706875,6
+139,uk,ICM,5.01427512561027,204
+140,uk,Deltapoll/The Mail on Sunday,5.02941269189886,26
+141,uk,Lord Ashcroft[8],5.054956690319502,8
+142,uk,"ComRes/Independent on Sunday, Sunday Mirror[permanent dead link]",5.079956690319501,10
+143,uk,YouGov/Datapraxis,5.101286510854124,6
+144,uk,Opinium,5.206313289291745,116
+145,uk,NOP/Reuters,5.223955839562153,8
+146,canada,Insights West,5.25310612520866,20
+147,canada,SES,5.2962350425898626,241
+148,australia,Morgan,5.321538461538461,26
+149,uk,Panelbase Archived 14 August 2017 at the Wayback Machine,5.321944999444796,6
+150,australia,Galaxy,5.359999999999999,8
+151,uk,YouGov/The Sun[permanent dead link],5.3853230533243295,16
+152,canada,Environics,5.441471358898473,255
+153,australia,Roy Morgan[123],5.460000000000001,12
+154,uk,Ipsos MORI/Reuters,5.480714393269919,38
+155,uk,NOP/Independent on Sunday,5.5,12
+156,uk,Ipsos MORI,5.556790291280272,130
+157,uk,YouGov[258],5.575774966548323,10
+158,uk,ICM/The Guardian,5.602842119456965,222
+159,uk,Populus/The Times[10],5.6477474209096306,34
+160,uk,YouGov/People's Vote,5.668806074883857,8
+161,uk,ICM/The Sun on Sunday,5.6732954645026155,8
+162,uk,YouGov/LBC,5.678055000555204,6
+163,uk,Harris/Independent,5.689316322201197,18
+164,australia,Roy Morgan[59],5.706666666666666,12
+165,australia,Resolve Strategic[93],5.725,8
+166,australia,Roy Morgan[193],5.746666666666665,12
+167,uk,Ipsos MORI/Evening Standard,5.7966184315788505,102
+168,uk,YouGov/ITV,5.800139540874563,8
+169,uk,YouGov/Sunday Times,5.8153372968534685,390
+170,uk,Opinium/The Observer,5.86467306975006,182
+171,uk,Ipsos MORI[permanent dead link],5.8691690806387165,8
+172,uk,Number Cruncher Politics,5.918806074883857,8
+173,uk,ComRes/Independent[permanent dead link],5.949187459550272,26
+174,uk,MORI/Times,5.978570433332,114
+175,canada,Compass,5.9981694716604474,7
+176,uk,Angus Reid Public Opinion[permanent dead link],6.013290023652836,6
+177,uk,ICM/The Guardian[dead link][dead link][dead link][permanent dead link][permanent dead link][permanent dead link][permanent dead link][permanent dead link][permanent dead link][9],6.045038104320575,12
+178,canada,Léger,6.052242365175779,156
+179,uk,YouGov,6.066024147547433,214
+180,uk,Survation,6.088395371861187,30
+181,uk,Survation/Mail on Sunday,6.146511415155229,60
+182,uk,"ComRes/Independent on Sunday, Sunday Mirror",6.166393161832637,10
+183,uk,ComRes/Sunday Mirror/Independent,6.179956690319503,6
+184,uk,YouGov/The Sun,6.220938042291436,1920
+185,uk,BMG/The Independent,6.253920464400587,56
+186,uk,ComRes/Independent,6.263290023652836,12
+187,uk,Ipsos MORI/Evening Standard[permanent dead link],6.2700943869074095,6
+188,uk,Opinium/The Observer Archived 16 September 2019 at the Wayback Machine,6.338717105259734,18
+189,uk,Deltapoll,6.424881976520145,6
+190,australia,Roy Morgan[185],6.456666666666666,18
+191,uk,BPIX[222],6.472856415088259,12
+192,uk,ComRes/Daily Mail,6.484574980014455,22
+193,uk,ICM/Express,6.505329896854053,6
+194,canada,Ipsos,6.51171293278914,647
+195,uk,Populus Archived 4 December 2014 at the Wayback Machine,6.513290023652836,6
+196,uk,YouGov[267],6.532007837345182,8
+197,australia,Roy Morgan[188],6.579999999999998,12
+198,uk,NOP/Sunday Times,6.653683215120265,56
+199,uk,ComRes/Sunday Mirror/Independent[permanent dead link],6.679956690319502,18
+200,uk,Gallup/Telegraph,6.685772011262649,166
+201,uk,MORI,6.750789883641389,208
+202,canada,Angus Reid[LV],6.815016916155035,5
+203,canada,MQO Research,6.8960588272812435,49
+204,uk,Opinium/The Observer Archived 9 July 2019 at the Wayback Machine,6.992406317089561,6
+205,uk,Opinium/Observer,7.051577107703356,42
+206,australia,Roy Morgan[186],7.123333333333332,12
+207,uk,YouGov/The Sunday Times,7.139863408285315,148
+208,australia,Roy Morgan[120],7.230000000000002,10
+209,uk,Gallup,7.345155517793458,122
+210,uk,Deltapoll/The Sun on Sunday,7.418806074883857,8
+211,canada,Leger,7.430978112788724,245
+212,uk,Datapraxis/YouGov,7.433988077720216,17
+213,canada,Compas,7.447393949384218,10
+214,uk,YouGov/The Times,7.5456629192919795,330
+215,australia,Roy Morgan[189],7.579999999999998,12
+216,uk,"ComRes/Sunday Mirror, Independent on Sunday",7.580281121235677,16
+217,uk,BMG,7.587302786069626,24
+218,uk,Survation/Daily Mail,7.592913672421687,34
+219,australia,Roy Morgan[28],7.623333333333332,12
+220,uk,Angus Reid Public Opinion,7.654956690319501,40
+221,uk,BMG Research,7.666393161832637,10
+222,canada,Ekos,7.888279993772991,173
+223,uk,ICM/Sun on Sunday,7.9367610535740765,6
+224,australia,Roy Morgan[191],8.069999999999997,10
+225,uk,YouGov (MRP),8.081054273152265,24
+226,uk,TNS BMRB Archived 6 December 2014 at the Wayback Machine,8.117456690319502,16
+227,uk,NOP,8.12816947906433,58
+228,uk,Harris/Observer,8.206722110771182,12
+229,uk,Survation/The Mail on Sunday,8.346726002222146,16
+230,uk,ComRes/Britain Elects,8.351286510854123,12
+231,australia,Roy Morgan[192],8.421999999999999,10
+232,uk,TNS BMRB Archived 29 November 2014 at the Wayback Machine,8.526110536473348,26
+233,uk,Deltapoll/Peter Kellner,8.593356441893903,25
+234,uk,YouGov/Welsh Political Barometer,9.55657781057959,18
+235,uk,ComRes/Sunday Express,9.601286510854123,8
+236,uk,ComRes/The Daily Telegraph,10.601286510854123,12
+237,uk,Survation/Channel 4,11.133526123324998,6
+238,uk,YouGov/ITV Cymru Wales/Cardiff University,11.510828952787204,28
+239,uk,Panelbase/The Sunday Times,11.623241025071938,18
+240,uk,NFO System 3[13],11.755158641349505,6
+241,uk,System Three,11.775344642958865,38
+242,uk,System 3,11.807289172895487,12
+243,uk,Survation/Liberal Democrats,11.882303400750484,16
+244,uk,YouGov[263],12.097747029740468,45
+245,uk,NFO System 3[12],12.213491974682839,8
+246,uk,Survation/Daily Record,12.351286510854123,8
+247,uk,Survation/The Sunday Post,13.12298872784696,6
+248,uk,ICM[271],13.495816390796193,6
+249,canada,CROP,14.140518819437041,48
+250,uk,YouGov/Queen Mary University of London,14.712145929560435,16
+251,uk,Panelbase/The Sunday Times Archived 29 August 2022 at the Wayback Machine,14.851286510854123,6
+252,uk,Beaufort,15.135859003337567,8
+253,uk,NFO System 3[17],15.532936419127282,36
+254,uk,Survation/Scottish Daily Mail,17.75883983634338,8

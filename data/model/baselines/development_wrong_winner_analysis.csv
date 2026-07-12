@@ -1,0 +1,2 @@
+country,election_year,actual_winner,actual_winner_actual_pct,actual_winner_polling_pct,actual_winner_poll_error,polling_winner,polling_winner_actual_pct,polling_winner_polling_pct,polling_winner_poll_error,polling_lead_over_actual_winner,actual_lead_over_polling_winner
+us,2000,DEM,48.20364535317434,43.1830368,-5.020608553174334,REP,47.89431854647568,46.7963518,-1.0979667464756844,3.613314999999993,0.30932680669865675

@@ -1,0 +1,15 @@
+country,election_year,actual_winner,polling_baseline_winner,polling_baseline_correct,ridge_winner,ridge_correct,logistic_winner,logistic_correct
+australia,2010,ALP (2PP),ALP (2PP),1,ALP (2PP),1,ALP (2PP),1
+australia,2013,L/NP (2PP),L/NP (2PP),1,L/NP (2PP),1,L/NP (2PP),1
+australia,2016,L/NP (2PP),L/NP (2PP),1,L/NP (2PP),1,L/NP (2PP),1
+canada,2004,LPC,LPC,1,LPC,1,LPC,1
+canada,2006,CPC,CPC,1,CPC,1,CPC,1
+canada,2008,CPC,CPC,1,CPC,1,CPC,1
+uk,1997,LAB,LAB,1,LAB,1,LAB,1
+uk,2001,LAB,LAB,1,LAB,1,LAB,1
+uk,2005,LAB,LAB,1,LAB,1,LAB,1
+uk,2010,CON,CON,1,CON,1,LIB,0
+uk,2015,CON,CON,1,CON,1,CON,1
+us,2000,DEM,REP,0,REP,0,REP,0
+us,2004,REP,REP,1,REP,1,REP,1
+us,2008,DEM,DEM,1,DEM,1,DEM,1

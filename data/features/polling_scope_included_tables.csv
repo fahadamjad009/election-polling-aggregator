@@ -1,0 +1,25 @@
+country,election_year,source_table,scope_status,override_status,effective_scope_status,effective_scope_reason,evidence,poll_party_rows
+australia,2010,australia_2010_table0.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,463
+australia,2013,australia_2013_table0.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,66
+australia,2016,australia_2016_table2.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,1524
+australia,2019,australia_2019_table1.csv,review,manual_approved,manual_approved,National Australian polling series,Contains national primary and two-party-preferred columns and the 18 May 2019 national election result,1175
+australia,2022,australia_2022_table1.csv,review,manual_approved,manual_approved,Current-cycle national Australian polling series,Contains national primary and two-party-preferred polling plus the 21 May 2022 election result,366
+australia,2022,australia_2022_table2.csv,review,manual_approved,manual_approved,Earlier continuation of national Australian polling series,Same national party schema and polling brands as the current-cycle national table; covers earlier dates,771
+canada,2004,canada_2004_table2.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,203
+canada,2006,canada_2006_table4.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,964
+canada,2008,canada_2008_table1.csv,review,manual_approved,manual_approved,National Canadian polling series,Contains the 14 October 2008 national election result matching CPC LPC NDP BQ and GPC national shares,1478
+canada,2015,canada_2015_table1.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,575
+canada,2019,canada_2019_table1.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,703
+uk,1997,uk_1997_table2.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,249
+uk,2001,uk_2001_table1.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,174
+uk,2005,uk_2005_table1.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,288
+uk,2010,uk_2010_table1.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,877
+uk,2015,uk_2015_table2.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,1160
+uk,2017,uk_2017_table1.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,691
+uk,2017,uk_2017_table4.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,54
+uk,2019,uk_2019_table2.csv,approved_marker_match,,approved_marker_match,election marker closely matches national actual results,,1713
+us,2000,pres_pollaverages_1968-2016.csv,review,manual_approved,manual_approved,National US presidential polling-average series,National daily presidential polling averages with DEM REP and OTHER,753
+us,2004,pres_pollaverages_1968-2016.csv,review,manual_approved,manual_approved,National US presidential polling-average series,National daily presidential polling averages with DEM and REP,502
+us,2008,pres_pollaverages_1968-2016.csv,review,manual_approved,manual_approved,National US presidential polling-average series,National daily presidential polling averages with DEM and REP,502
+us,2012,pres_pollaverages_1968-2016.csv,review,manual_approved,manual_approved,National US presidential polling-average series,National daily presidential polling averages with DEM and REP,502
+us,2016,pres_pollaverages_1968-2016.csv,review,manual_approved,manual_approved,National US presidential polling-average series,National daily presidential polling averages with DEM REP and OTHER,736
