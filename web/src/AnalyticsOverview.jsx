@@ -1,4 +1,4 @@
-﻿import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import Plot from 'react-plotly.js'
 
 const chartLayout = {
@@ -15,8 +15,8 @@ function AnalyticsOverview() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/country-performance.json').then((response) => response.json()),
-      fetch('/data/election-errors.json').then((response) => response.json()),
+      fetch(`${import.meta.env.BASE_URL}data/country-performance.json`).then((response) => response.json()),
+      fetch(`${import.meta.env.BASE_URL}data/election-errors.json`).then((response) => response.json()),
     ])
       .then(([countryData, electionData]) => {
         setCountries(countryData)

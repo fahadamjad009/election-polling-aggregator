@@ -1,4 +1,4 @@
-﻿import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import Plot from 'react-plotly.js'
 
 const countryNames = {
@@ -21,8 +21,8 @@ function HoldoutEvidence() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/party-errors.json').then((response) => response.json()),
-      fetch('/data/holdout-election-results.json').then((response) =>
+      fetch(`${import.meta.env.BASE_URL}data/party-errors.json`).then((response) => response.json()),
+      fetch(`${import.meta.env.BASE_URL}data/holdout-election-results.json`).then((response) =>
         response.json(),
       ),
     ]).then(([errorData, resultData]) => {

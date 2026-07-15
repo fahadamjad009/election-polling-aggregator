@@ -22,13 +22,13 @@ function GovernanceEvidence() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/model-dataset-audit.json').then((response) =>
+      fetch(`${import.meta.env.BASE_URL}data/model-dataset-audit.json`).then((response) =>
         response.json(),
       ),
-      fetch('/data/holdout-metrics.json').then((response) =>
+      fetch(`${import.meta.env.BASE_URL}data/holdout-metrics.json`).then((response) =>
         response.json(),
       ),
-      fetch('/data/model-selection.json').then((response) =>
+      fetch(`${import.meta.env.BASE_URL}data/model-selection.json`).then((response) =>
         response.json(),
       ),
     ]).then(([auditData, metricData, selectionData]) => {

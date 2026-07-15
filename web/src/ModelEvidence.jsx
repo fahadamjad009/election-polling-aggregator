@@ -1,4 +1,4 @@
-﻿import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import Plot from 'react-plotly.js'
 
 const countryLabels = {
@@ -22,10 +22,10 @@ function ModelEvidence() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/feature-ablation.json').then((response) =>
+      fetch(`${import.meta.env.BASE_URL}data/feature-ablation.json`).then((response) =>
         response.json(),
       ),
-      fetch('/data/holdout-country-errors.json').then((response) =>
+      fetch(`${import.meta.env.BASE_URL}data/holdout-country-errors.json`).then((response) =>
         response.json(),
       ),
     ])

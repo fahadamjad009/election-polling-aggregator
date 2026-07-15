@@ -15,10 +15,10 @@ function ScopeAudit() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/scope-included.json').then((response) =>
+      fetch(`${import.meta.env.BASE_URL}data/scope-included.json`).then((response) =>
         response.json(),
       ),
-      fetch('/data/scope-excluded.json').then((response) =>
+      fetch(`${import.meta.env.BASE_URL}data/scope-excluded.json`).then((response) =>
         response.json(),
       ),
     ])

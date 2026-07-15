@@ -1,4 +1,4 @@
-﻿import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import Plot from 'react-plotly.js'
 
 const layout = {
@@ -18,10 +18,10 @@ function PollingExplorer() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/polling-trajectory.json').then((response) =>
+      fetch(`${import.meta.env.BASE_URL}data/polling-trajectory.json`).then((response) =>
         response.json(),
       ),
-      fetch('/data/party-errors.json').then((response) =>
+      fetch(`${import.meta.env.BASE_URL}data/party-errors.json`).then((response) =>
         response.json(),
       ),
     ])
