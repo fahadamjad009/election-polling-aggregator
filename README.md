@@ -270,7 +270,9 @@ Verified public deployment:
 
 ## Live application
 
-**[Launch the Election Polling Aggregator dashboard](https://election-polling-aggregator.streamlit.app)**
+**[Open the React analytics app](https://fahadamjad009.github.io/election-polling-aggregator/)**
+
+**[Open the Streamlit evidence dashboard](https://election-polling-aggregator.streamlit.app)**
 
 The deployed dashboard provides interactive access to the frozen project evidence, including:
 
@@ -292,7 +294,8 @@ The dashboard reads versioned analytical outputs. It does not retrain models, re
 | Setting | Value |
 |---|---|
 | Platform | Streamlit Community Cloud |
-| Live application | [Open dashboard](https://election-polling-aggregator.streamlit.app) |
+| React analytics app | [Open React app](https://fahadamjad009.github.io/election-polling-aggregator/) |
+| Streamlit dashboard | [Open Streamlit app](https://election-polling-aggregator.streamlit.app) |
 | Repository | `fahadamjad009/election-polling-aggregator` |
 | Branch | `main` |
 | Entrypoint | `app.py` |
