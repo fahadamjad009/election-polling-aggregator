@@ -1,0 +1,34 @@
+[
+  {
+    "country":"australia",
+    "rows":4,
+    "elections":2,
+    "MAE":1.765,
+    "mean_error":-0.3,
+    "RMSE":2.115395944
+  },
+  {
+    "country":"canada",
+    "rows":10,
+    "elections":2,
+    "MAE":1.0526333543,
+    "mean_error":-0.1167092584,
+    "RMSE":1.2584158052
+  },
+  {
+    "country":"uk",
+    "rows":6,
+    "elections":2,
+    "MAE":0.3800282852,
+    "mean_error":0.0755585819,
+    "RMSE":0.4438982165
+  },
+  {
+    "country":"us",
+    "rows":5,
+    "elections":2,
+    "MAE":2.2441658935,
+    "mean_error":-2.0395329139,
+    "RMSE":2.6696502421
+  }
+]

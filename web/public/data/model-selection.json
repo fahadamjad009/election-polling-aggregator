@@ -1,0 +1,10 @@
+{
+  "selected_model": "final_polling_average",
+  "prediction_column": "final_rolling_avg",
+  "selection_basis": "Lowest development leave-one-election-out MAE and RMSE while retaining the highest development election-winner accuracy.",
+  "development_mae": 1.3115491966662662,
+  "development_rmse": 1.7230338400942018,
+  "development_winner_accuracy": 0.9285714285714286,
+  "challenger_decision": "Rejected. No Ridge or logistic feature configuration improved the regression benchmark without reducing performance.",
+  "holdout_usage": "Single final evaluation only; no tuning or reselection after inspection."
+}

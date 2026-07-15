@@ -1,0 +1,29 @@
+[
+  {
+    "evaluation_set":"chronological_holdout",
+    "task":"vote_share_regression",
+    "model":"final_polling_average",
+    "metric":"MAE",
+    "value":1.2434933089,
+    "rows":25,
+    "elections":8
+  },
+  {
+    "evaluation_set":"chronological_holdout",
+    "task":"vote_share_regression",
+    "model":"final_polling_average",
+    "metric":"RMSE",
+    "value":1.6799183221,
+    "rows":25,
+    "elections":8
+  },
+  {
+    "evaluation_set":"chronological_holdout",
+    "task":"winner_classification",
+    "model":"final_polling_average",
+    "metric":"election_winner_accuracy",
+    "value":0.875,
+    "rows":25,
+    "elections":8
+  }
+]

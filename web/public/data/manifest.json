@@ -1,0 +1,217 @@
+{
+  "country-performance.json": {
+    "source": "data/presentation/country_geographic_performance.csv",
+    "rows": 4,
+    "columns": [
+      "country",
+      "country_label",
+      "iso_alpha",
+      "poll_observations",
+      "campaign_party_rows",
+      "evaluated_party_rows",
+      "elections",
+      "correct_winners",
+      "wrong_winners",
+      "winner_accuracy",
+      "winner_accuracy_pct",
+      "mean_absolute_error",
+      "median_absolute_error",
+      "maximum_absolute_error",
+      "worst_election",
+      "worst_election_mae",
+      "worst_election_result_status"
+    ]
+  },
+  "election-errors.json": {
+    "source": "data/presentation/election_error_heatmap.csv",
+    "rows": 22,
+    "columns": [
+      "country",
+      "country_label",
+      "iso_alpha",
+      "election_year",
+      "split",
+      "election_mae",
+      "winner_correct",
+      "result_status",
+      "actual_winner",
+      "predicted_winner",
+      "annotation"
+    ]
+  },
+  "polling-trajectory.json": {
+    "source": "data/presentation/polling_trajectory.csv",
+    "rows": 16125,
+    "columns": [
+      "country",
+      "country_label",
+      "election_year",
+      "election_label",
+      "dataset_split",
+      "party",
+      "poll_date",
+      "pct",
+      "rolling_avg",
+      "momentum_1st_diff",
+      "momentum_2nd_diff",
+      "model_included",
+      "actual_pct",
+      "is_winner",
+      "n_poll_observations",
+      "poll_std"
+    ]
+  },
+  "party-errors.json": {
+    "source": "data/presentation/party_error_distribution.csv",
+    "rows": 68,
+    "columns": [
+      "country",
+      "country_label",
+      "election_year",
+      "election_label",
+      "party",
+      "party_role",
+      "evaluation_split",
+      "dataset_split",
+      "actual_pct",
+      "predicted_pct",
+      "signed_error",
+      "absolute_error",
+      "n_poll_observations",
+      "poll_std",
+      "bubble_size",
+      "campaign_span_days",
+      "recent_30d_observations"
+    ]
+  },
+  "feature-ablation.json": {
+    "source": "data/model/ablation/development_feature_ablation_metrics.csv",
+    "rows": 21,
+    "columns": [
+      "task",
+      "feature_set",
+      "model",
+      "metric",
+      "value"
+    ]
+  },
+  "holdout-metrics.json": {
+    "source": "data/model/final_holdout/final_holdout_metrics.csv",
+    "rows": 3,
+    "columns": [
+      "evaluation_set",
+      "task",
+      "model",
+      "metric",
+      "value",
+      "rows",
+      "elections"
+    ]
+  },
+  "holdout-country-errors.json": {
+    "source": "data/model/final_holdout/final_holdout_country_errors.csv",
+    "rows": 4,
+    "columns": [
+      "country",
+      "rows",
+      "elections",
+      "MAE",
+      "mean_error",
+      "RMSE"
+    ]
+  },
+  "holdout-election-results.json": {
+    "source": "data/model/final_holdout/final_holdout_election_results.csv",
+    "rows": 8,
+    "columns": [
+      "country",
+      "election_year",
+      "actual_winner",
+      "predicted_winner",
+      "winner_correct",
+      "predicted_winner_polling_pct",
+      "predicted_winner_actual_pct",
+      "predicted_margin",
+      "actual_margin"
+    ]
+  },
+  "scope-audit.json": {
+    "source": "data/reference/polling_table_scope_audit.csv",
+    "rows": 218,
+    "columns": [
+      "country",
+      "election_year",
+      "source_table",
+      "poll_party_rows",
+      "party_count",
+      "party_signature",
+      "marker_candidate_count",
+      "best_marker_date_raw",
+      "best_marker_relevance",
+      "national_overlap_parties",
+      "marker_mae",
+      "marker_max_abs_error",
+      "scope_status",
+      "scope_reason"
+    ]
+  },
+  "scope-included.json": {
+    "source": "data/features/polling_scope_included_tables.csv",
+    "rows": 24,
+    "columns": [
+      "country",
+      "election_year",
+      "source_table",
+      "scope_status",
+      "override_status",
+      "effective_scope_status",
+      "effective_scope_reason",
+      "evidence",
+      "poll_party_rows"
+    ]
+  },
+  "scope-excluded.json": {
+    "source": "data/features/polling_scope_excluded_tables.csv",
+    "rows": 194,
+    "columns": [
+      "country",
+      "election_year",
+      "source_table",
+      "scope_status",
+      "override_status",
+      "effective_scope_status",
+      "effective_scope_reason",
+      "evidence",
+      "poll_party_rows"
+    ]
+  },
+  "model-dataset-audit.json": {
+    "source": "data/model/model_dataset_audit.csv",
+    "rows": 22,
+    "columns": [
+      "country",
+      "election_year",
+      "source_feature_rows",
+      "post_election_rows",
+      "dataset_split",
+      "model_party_rows",
+      "winner_rows",
+      "earliest_model_poll",
+      "latest_model_poll"
+    ]
+  },
+  "model-selection.json": {
+    "source": "data/model/final_holdout/model_selection_decision.json",
+    "rows": 1,
+    "columns": [
+      "selected_model",
+      "prediction_column",
+      "selection_basis",
+      "development_mae",
+      "development_rmse",
+      "development_winner_accuracy",
+      "challenger_decision",
+      "holdout_usage"
+    ]
+  }
+}
